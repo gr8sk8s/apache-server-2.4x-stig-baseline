@@ -5,106 +5,106 @@
       "V-92759"
     ],
     "renamedControlIDs": {
-      "V-92597": "SV-214228",
-      "V-92599": "SV-214229",
-      "V-92601": "SV-214230",
-      "V-92607": "SV-214231",
-      "V-92609": "SV-214232",
-      "V-92621": "SV-214233",
-      "V-92627": "SV-214234",
-      "V-92629": "SV-214235",
-      "V-92631": "SV-214236",
-      "V-92635": "SV-214237",
-      "V-92637": "SV-214238",
-      "V-92639": "SV-214239",
-      "V-92641": "SV-214240",
-      "V-92643": "SV-214241",
-      "V-92645": "SV-214242",
-      "V-92653": "SV-214243",
-      "V-92655": "SV-214244",
-      "V-92659": "SV-214245",
-      "V-92661": "SV-214246",
-      "V-92671": "SV-214247",
-      "V-92673": "SV-214248",
-      "V-92675": "SV-214249",
-      "V-92677": "SV-214250",
-      "V-92679": "SV-214251",
-      "V-92687": "SV-214252",
-      "V-92689": "SV-214253",
-      "V-92695": "SV-214254",
-      "V-92697": "SV-214255",
-      "V-92699": "SV-214256",
-      "V-92701": "SV-214257",
-      "V-92705": "SV-214258",
-      "V-92709": "SV-214259",
-      "V-92711": "SV-214260",
-      "V-92713": "SV-214261",
-      "V-92715": "SV-214262",
-      "V-92717": "SV-214263",
-      "V-92719": "SV-214264",
-      "V-92723": "SV-214265",
-      "V-92727": "SV-214266",
-      "V-92731": "SV-214267",
-      "V-92741": "SV-214268",
-      "V-92745": "SV-214269",
-      "V-92749": "SV-214270",
-      "V-92751": "SV-214271",
-      "V-92753": "SV-214272",
-      "V-92755": "SV-214273",
-      "V-92757": "SV-214274"
+      "V-92597": "V-214228",
+      "V-92599": "V-214229",
+      "V-92601": "V-214230",
+      "V-92607": "V-214231",
+      "V-92609": "V-214232",
+      "V-92621": "V-214233",
+      "V-92627": "V-214234",
+      "V-92629": "V-214235",
+      "V-92631": "V-214236",
+      "V-92635": "V-214237",
+      "V-92637": "V-214238",
+      "V-92639": "V-214239",
+      "V-92641": "V-214240",
+      "V-92643": "V-214241",
+      "V-92645": "V-214242",
+      "V-92653": "V-214243",
+      "V-92655": "V-214244",
+      "V-92659": "V-214245",
+      "V-92661": "V-214246",
+      "V-92671": "V-214247",
+      "V-92673": "V-214248",
+      "V-92675": "V-214249",
+      "V-92677": "V-214250",
+      "V-92679": "V-214251",
+      "V-92687": "V-214252",
+      "V-92689": "V-214253",
+      "V-92695": "V-214254",
+      "V-92697": "V-214255",
+      "V-92699": "V-214256",
+      "V-92701": "V-214257",
+      "V-92705": "V-214258",
+      "V-92709": "V-214259",
+      "V-92711": "V-214260",
+      "V-92713": "V-214261",
+      "V-92715": "V-214262",
+      "V-92717": "V-214263",
+      "V-92719": "V-214264",
+      "V-92723": "V-214265",
+      "V-92727": "V-214266",
+      "V-92731": "V-214267",
+      "V-92741": "V-214268",
+      "V-92745": "V-214269",
+      "V-92749": "V-214270",
+      "V-92751": "V-214271",
+      "V-92753": "V-214272",
+      "V-92755": "V-214273",
+      "V-92757": "V-214274"
     },
     "changedControlIDs": [
-      "SV-214228",
-      "SV-214229",
-      "SV-214230",
-      "SV-214231",
-      "SV-214232",
-      "SV-214233",
-      "SV-214234",
-      "SV-214235",
-      "SV-214236",
-      "SV-214237",
-      "SV-214238",
-      "SV-214239",
-      "SV-214240",
-      "SV-214241",
-      "SV-214242",
-      "SV-214243",
-      "SV-214244",
-      "SV-214245",
-      "SV-214246",
-      "SV-214247",
-      "SV-214248",
-      "SV-214249",
-      "SV-214250",
-      "SV-214251",
-      "SV-214252",
-      "SV-214253",
-      "SV-214254",
-      "SV-214255",
-      "SV-214256",
-      "SV-214257",
-      "SV-214258",
-      "SV-214259",
-      "SV-214260",
-      "SV-214261",
-      "SV-214262",
-      "SV-214263",
-      "SV-214264",
-      "SV-214265",
-      "SV-214266",
-      "SV-214267",
-      "SV-214268",
-      "SV-214269",
-      "SV-214270",
-      "SV-214271",
-      "SV-214272",
-      "SV-214273",
-      "SV-214274"
+      "V-214228",
+      "V-214229",
+      "V-214230",
+      "V-214231",
+      "V-214232",
+      "V-214233",
+      "V-214234",
+      "V-214235",
+      "V-214236",
+      "V-214237",
+      "V-214238",
+      "V-214239",
+      "V-214240",
+      "V-214241",
+      "V-214242",
+      "V-214243",
+      "V-214244",
+      "V-214245",
+      "V-214246",
+      "V-214247",
+      "V-214248",
+      "V-214249",
+      "V-214250",
+      "V-214251",
+      "V-214252",
+      "V-214253",
+      "V-214254",
+      "V-214255",
+      "V-214256",
+      "V-214257",
+      "V-214258",
+      "V-214259",
+      "V-214260",
+      "V-214261",
+      "V-214262",
+      "V-214263",
+      "V-214264",
+      "V-214265",
+      "V-214266",
+      "V-214267",
+      "V-214268",
+      "V-214269",
+      "V-214270",
+      "V-214271",
+      "V-214272",
+      "V-214273",
+      "V-214274"
     ],
     "addedControls": {},
     "changedControls": {
-      "SV-214228": {
+      "V-214228": {
         "tags": {
           "check_id__added": "C-15442r881402_chk",
           "documentable__added": false,
@@ -116,13 +116,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214228",
+        "id": "V-214228",
         "descs": {
           "check": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used.\n\nSearch for the directives \"KeepAlive\" and \"MaxKeepAliveRequests\" in the \"httpd.conf\" file:\n\n# cat /<path_to_file>/httpd.conf | grep -i \"keepalive\"\n\nKeepAlive On\nMaxKeepAliveRequests 100\n\nIf the value of \"KeepAlive\" is set to \"off\" or does not exist, this is a finding.\n\nIf the value of \"MaxKeepAliveRequests\" is set to a value less than \"100\" or does not exist, this is a finding.",
           "fix": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used.  \n\nSet the \"KeepAlive\" directive to a value of \"on\"; add the directive if it does not exist.\n\nSet the \"MaxKeepAliveRequests\" directive to a value of \"100\" or greater; add the directive if it does not exist.\n\nRestart Apache: apachectl restart"
         }
       },
-      "SV-214229": {
+      "V-214229": {
         "tags": {
           "check_id__added": "C-15443r881405_chk",
           "documentable__added": false,
@@ -134,12 +134,12 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214229",
+        "id": "V-214229",
         "descs": {
           "check": "Issue the following command:\nhttpd -M |grep -E 'session_module|usertrack'\n\nExpected output:\nusertrack_module (shared)\nsession_module (shared)\n\nIf results do not return both \"usertrack_module (shared)\" and \"session_module (shared)\", this is a finding.\n\nAlternatively, determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used.  \n\nSearch for the \"session_module\" and \"usertrack_module\" directives:\n\n# cat /<path_to_file>/httpd.conf | grep -i \"session_module\"\n# cat /<path_to_file>/httpd.conf | grep -i \"usertrack_module\"\nIf \"session_module\" and \"usertrack_module\" are not enabled or do not exist, this is a finding."
         }
       },
-      "SV-214230": {
+      "V-214230": {
         "tags": {
           "check_id__added": "C-15444r881407_chk",
           "documentable__added": false,
@@ -154,13 +154,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214230",
+        "id": "V-214230",
         "descs": {
           "check": "Verify the \"ssl module\" module is loaded\n# httpd -M | grep -i ssl_module\nOutput:  ssl_module (shared) \n\nIf the \"ssl_module\" is not found, this is a finding. \n\nDetermine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used.  \n\nSearch for the directive \"SSLProtocol\" in the \"httpd.conf\" file: \n\n# cat /<path_to_file>/httpd.conf | grep -i \"SSLProtocol\" \n\nIf the \"SSLProtocol\" directive is missing or does not look like the following, this is a finding: \n\nSSLProtocol -ALL +TLSv1.2 \n\nIf the TLS version is not TLS 1.2 or higher, according to NIST SP 800-52 Rev 2, or if non-FIPS-approved algorithms are enabled, this is a finding.",
           "fix": "# cat /etc/httpd/conf.d/ssl.conf | grep \"SSLProtocol - ALL +TLSv1.2\"\n\nEnsure the \"SSLProtocol\" is added to the ssl.conf file and looks like the following:\n\nSSLProtocol -ALL +TLSv1.2\n\nRestart Apache: apachectl restart"
         }
       },
-      "SV-214231": {
+      "V-214231": {
         "tags": {
           "check_id__added": "C-15445r881409_chk",
           "documentable__added": false,
@@ -172,12 +172,12 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214231",
+        "id": "V-214231",
         "descs": {
           "check": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used.\n\nSearch for the directive \"CustomLog\" in the \"httpd.conf\" file:\n\n# cat /<path_to_file>/httpd.conf | grep -i \"CustomLog\"\n\nIf the \"CustomLog\" directive is missing, this is a finding:\n\nAn example CustomLog directive would be as follows:\nCustomLog \"logs/access_log\" common or CustomLog “log/access_log” combined\n(May also be \"Logs/access_log\")"
         }
       },
-      "SV-214232": {
+      "V-214232": {
         "tags": {
           "check_id__added": "C-15446r881411_chk",
           "documentable__added": false,
@@ -197,13 +197,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214232",
+        "id": "V-214232",
         "descs": {
           "check": "Verify the Log Configuration Module is loaded:\n# httpd -M | grep -i log_config_module\nOutput:  log_config_module (shared)\n\nIf the \"log_config_module\" is not enabled, this is a finding.\n\nDetermine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used.  \n\nSearch for the directive \"LogFormat\" in the \"httpd.conf\" file:\n\n# cat /<path_to_file>/httpd.conf | grep -i \"LogFormat\"\n\nIf the \"LogFormat\" directive is missing, this is a finding:\n\nAn example is:\nLogFormat \"%a %A %h %H %l %m %s %t %u %U \\\"%{Referer}i\\\" \" common",
           "fix": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nUncomment the \"log_config_module\" module line.\n\nConfigure the \"LogFormat\" in the \"httpd.conf\" file to look like the following:\n\nLogFormat \"%a %A %h %H %l %m %s %t %u %U \\\"%{Referer}i\\\" \" common\n\nRestart Apache: apachectl restart\n\nNote: The log format could be using different variables based on the environment; however it should be verified to ensure it is producing the same end result of logged elements.  \n\nThe logging elements required breakdown as follows:\n%a       remote IP address\n%A       local IP address\n%h       IP address of requesting client\n%H      the request protocol\n%l        user ID of the requesting client\n%m      request method\n%s        status\n%t        time the request was received\n%u       user ID of the remote user\n%U       URL path requested"
         }
       },
-      "SV-214233": {
+      "V-214233": {
         "tags": {
           "check_id__added": "C-15447r881414_chk",
           "documentable__added": false,
@@ -218,13 +218,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214233",
+        "id": "V-214233",
         "desc": "Apache web server logging capability is critical for accurate forensic analysis. Without sufficient and accurate information, a correct replay of the events cannot be determined.\n\nAscertaining the correct source of the events (e.g., source IP) is important during forensic analysis. Correctly determining the source of events will add information to the overall reconstruction of the loggable event. By determining the source of the event correctly, analysis of the enterprise can be undertaken to determine if events tied to the source occurred in other areas within the enterprise.\n\nA web server behind a load balancer or proxy server, when not configured correctly, will record the load balancer or proxy server as the source of every loggable event. When looking at the information forensically, this information is not helpful in the investigation of events. The web server must record with each event the client source of the event.",
         "descs": {
           "check": "If Apache server is not behind a load balancer or proxy server, this check is Not Applicable.\n\nInterview the System Administrator to review the configuration of the Apache web server architecture and determine if inbound web traffic is passed through a proxy.\n\nIf the Apache web server is receiving inbound web traffic through a proxy, the audit logs must be reviewed to determine if correct source information is being passed through by the proxy server.\n\nDetermine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used. \n\nReview the location of the log files.\n\nWhen the log file is displayed, review the source IP information in the log entries and verify the entries do not reflect the IP address of the proxy server.\nIf the log entries in the log file(s) reflect the IP address of the client in addition to the proxy address, this is not a finding.\nIf the log entries in the log file(s) reflect the IP address of the proxy server as the source, this is a finding.\n\nIf logs containing source/destination IPs can be obtained at the load balancer/proxy server, this is not a finding."
         }
       },
-      "SV-214234": {
+      "V-214234": {
         "tags": {
           "check_id__added": "C-15448r276962_chk",
           "documentable__added": false,
@@ -236,10 +236,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214234",
+        "id": "V-214234",
         "descs": {}
       },
-      "SV-214235": {
+      "V-214235": {
         "tags": {
           "check_id__added": "C-15449r881416_chk",
           "documentable__added": false,
@@ -254,12 +254,12 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214235",
+        "id": "V-214235",
         "descs": {
           "check": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used.\n\nWork with the Administrator to locate the log files:\nExample: /etc/httpd/logs\n\nList the POSIX permission set and owner/group of the log files:\n# ls -laH /etc/httpd/logs/*log*\nOutput Example:\n-rw-r------. 1 apache root    0 Sep 27 2020 /etc/httpd/logs/access_log\n-rw-r------. 1 apache root 1235 Sep 23 2020 /etc/httpd/logs/access_log-20200927\n-rw-r------. 1 apache root  332 Sep 26 03:40 /etc/httpd/logs/error_log\n\nOnly system administrators and service accounts running the server should have permissions to the files and the POSIX permissions should be set to 640 or more restrictive\n\nIf any users other than those authorized have read access to the log files, this is a finding."
         }
       },
-      "SV-214236": {
+      "V-214236": {
         "tags": {
           "check_id__added": "C-15450r276968_chk",
           "documentable__added": false,
@@ -275,12 +275,12 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214236",
+        "id": "V-214236",
         "descs": {
           "fix": "Determine the location of the \"ErrorLog\" directory in the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nOpen the \"httpd.conf\" file.\n\nLook for the \"ErrorLog\" directive.\n\nEnsure the permissions and ownership of all files in the Apache log directory are correct by executing the following commands as an administrative service account:\n \n# chown <'service account'> <'ErrorLog directive PATH'>/*"
         }
       },
-      "SV-214237": {
+      "V-214237": {
         "tags": {
           "check_id__added": "C-15451r276971_chk",
           "documentable__added": false,
@@ -292,10 +292,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214237",
+        "id": "V-214237",
         "descs": {}
       },
-      "SV-214238": {
+      "V-214238": {
         "tags": {
           "check_id__added": "C-15452r276974_chk",
           "documentable__added": false,
@@ -307,10 +307,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214238",
+        "id": "V-214238",
         "descs": {}
       },
-      "SV-214239": {
+      "V-214239": {
         "tags": {
           "check_id__added": "C-15453r276977_chk",
           "documentable__added": false,
@@ -322,10 +322,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214239",
+        "id": "V-214239",
         "descs": {}
       },
-      "SV-214240": {
+      "V-214240": {
         "tags": {
           "check_id__added": "C-15454r622512_chk",
           "documentable__added": false,
@@ -337,13 +337,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214240",
+        "id": "V-214240",
         "descs": {
           "check": "If the site requires the use of a particular piece of software, verify that the Information System Security Officer (ISSO) maintains documentation identifying this software as necessary for operations. The software must be operated at the vendor’s current patch level and must be a supported vendor release.\n\nIf programs or utilities that meet the above criteria are installed on the web server and appropriate documentation and signatures are in evidence, this is not a finding.\n\nDetermine whether the web server is configured with unnecessary software.\n\nDetermine whether processes other than those that support the web server are loaded and/or run on the web server.\n\nExamples of software that should not be on the web server are all web development tools, office suites (unless the web server is a private web development server), compilers, and other utilities that are not part of the web server suite or the basic operating system.\n\nCheck the directory structure of the server and verify that additional, unintended, or unneeded applications are not loaded on the system.\n\nIf, after review of the application on the system, there is no justification for the identified software, this is a finding.",
           "fix": "Remove any unnecessary applications per ISSO documentation."
         }
       },
-      "SV-214241": {
+      "V-214241": {
         "tags": {
           "check_id__added": "C-15455r881420_chk",
           "documentable__added": false,
@@ -355,12 +355,12 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214241",
+        "id": "V-214241",
         "descs": {
           "check": "If the server is a proxy server and not a web server, this check is Not Applicable.\n\nIn a command line, run \"httpd -M | sort\" to view a list of installed modules.\n\nIf any of the following modules are present, this is a finding:\n\nproxy_module\nproxy_ajp_module\nproxy_balancer_module\nproxy_ftp_module\nproxy_http_module\nproxy_connect_module\n\nDetermine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used. \n\nSearch for the directive \"ProxyRequest\" in the \"httpd.conf\" file. \nIf the ProxyRequest directive is set to “On”, this is a finding."
         }
       },
-      "SV-214242": {
+      "V-214242": {
         "tags": {
           "check_id__added": "C-15456r622509_chk",
           "documentable__added": false,
@@ -372,13 +372,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214242",
+        "id": "V-214242",
         "descs": {
           "check": "Verify the document root directory and the configuration files do not provide for default index.html or welcome page.\n\nVerify the Apache User Manual content is not installed by checking the configuration files for manual location directives.\n\nVerify the Apache configuration files do not have the Server Status handler configured.\n\nVerify the Server Information handler is not configured.\n\nVerify that any other handler configurations such as perl-status are not enabled.\n\nIf any of these are present, this is a finding.",
           "fix": "Review all pre-installed content and remove content that is not required. In particular, look for the unnecessary content that may be found in the document root directory, a configuration directory such as conf/extra directory, or as a UNIX/Linux package.\n\nRemove the default index.html or welcome page if it is a separate package. If the default welcome page is part of the main Apache httpd package as it is on Red Hat Linux, then comment out the configuration as shown below. Removing a file such as \"welcome.conf\" is not recommended as it may be replaced if the package is updated.\n\n#\n# This configuration file enables the default \"Welcome\"\n# page if there is no default index page present for\n# the root URL. To disable the Welcome page, comment\n# out all the lines below.\n#\n##<LocationMatch \"^/+$\">\n## Options -Indexes\n## ErrorDocument 403 /error/noindex.html\n##</LocationMatch>\n\nRemove the Apache User Manual content or comment out configurations referencing the manual.\n\nExample:\n\n# yum erase httpd-manual\n\nRemove or comment out any Server Status handler configuration:\n\n#\n# Allow server status reports generated by mod_status,\n# with the URL of http://servername/server-status\n# Change the \".example.com\" to match your domain to enable.\n#\n##<Location /server-status>\n## SetHandler server-status\n## Order deny,allow\n## Deny from all\n## Allow from .example.com\n##</Location>\n\nRemove or comment out any Server Information handler configuration:\n\n#\n# Allow remote server configuration reports, with the URL of\n# http://servername/server-info (requires that mod_info.c be loaded).\n# Change the \".example.com\" to match your domain to enable.\n#\n##<Location /server-info>\n## SetHandler server-info\n## Order deny,allow\n## Deny from all\n## Allow from .example.com\n##</Location>\n\nRemove or comment out any other handler configuration such as perl-status:\n\n# This will allow remote server configuration reports, with the URL of\n# http://servername/perl-status\n# Change the \".example.com\" to match your domain to enable.\n#\n##<Location /perl-status>\n## SetHandler perl-script\n## PerlResponseHandler Apache2::Status\n## Order deny,allow\n## Deny from all\n## Allow from .example.com\n##</Location>\n\nThe default source build provides extra content available in the <'INSTALLED PATH'>/conf/extra/ directory, but the configuration of most of the extra content is commented out by default. In particular, the inclusion of conf/extra/proxyhtml.conf is not commented out in \"httpd.conf\":\n\n# Server-pool management (MPM specific)\n#Include conf/extra/httpd-mpm.conf\n# Multi-language error messages\n#Include conf/extra/httpd-multilang-errordoc.conf\n# Fancy directory listings\n#Include conf/extra/httpd-autoindex.conf\n# Language settings\n#Include conf/extra/httpd-languages.conf\n# User home directories\n#Include conf/extra/httpd-userdir.conf\n# Real-time info on requests and configuration\n#Include conf/extra/httpd-info.conf\n# Virtual hosts\n#Include conf/extra/httpd-vhosts.conf\n# Local access to the Apache HTTP Server Manual\n#Include conf/extra/httpd-manual.conf\n# Distributed authoring and versioning (WebDAV)\n#Include conf/extra/httpd-dav.conf\n# Various default settings\n#Include conf/extra/httpd-default.conf\n# Configure mod_proxy_html to understand HTML4/XHTML1\n<IfModule proxy_html_module>\nInclude conf/extra/proxy-html.conf\n</IfModule>\n# Secure (SSL/TLS) connections\n#Include conf/extra/httpd-ssl.conf\n\nFor applications developed in-house, ensure that development artifacts (sample data and scripts; unused libraries, components, debug code; or tools) are not included in the deployed software or accessible in the production environment."
         }
       },
-      "SV-214243": {
+      "V-214243": {
         "tags": {
           "check_id__added": "C-15457r881422_chk",
           "documentable__added": false,
@@ -390,13 +390,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214243",
+        "id": "V-214243",
         "descs": {
           "check": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used.\n\nReview any \"Action\" or \"AddHandler\" directives:\n\n# cat /<path_to_file>/httpd.conf | grep -i \"Action\"\n# cat /<path_to_file>/httpd.conf | grep -i \"AddHandler\"\n\nIf \"Action\" or \"AddHandler\" exist and they configure .exe, .dll, .com, .bat, or .csh, or any other shell as a viewer for documents, this is a finding.\n\nIf this is not documented and approved by the Information System Security Officer (ISSO), this is a finding.",
           "fix": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nDisable MIME types for .exe, .dll, .com, .bat, and .csh programs.\n\nIf \"Action\" or \"AddHandler\" exist within the \"httpd.conf\" file and they configure .exe, .dll, .com, .bat, or .csh, remove those references.\n\nRestart Apache: apachectl restart\n\nEnsure this process is documented and approved by the ISSO."
         }
       },
-      "SV-214244": {
+      "V-214244": {
         "tags": {
           "check_id__added": "C-15458r881425_chk",
           "documentable__added": false,
@@ -408,13 +408,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214244",
+        "id": "V-214244",
         "descs": {
           "check": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used.  \n\nLocate \"cgi-bin\" files and directories enabled in the Apache configuration via \"Script\", \"ScriptAlias\" or \"ScriptAliasMatch\", and \"ScriptInterpreterSource\" directives:\n\n# cat /<path_to_file>/httpd.conf | grep -i \"Script\"\n\nIf any scripts are present that are not needed for application operation, this is a finding.\n\nIf this is not documented and approved by the Information System Security Officer (ISSO), this is a finding.",
           "fix": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nReview \"Script\", \"ScriptAlias\" or \"ScriptAliasMatch\", and \"ScriptInterpreterSource\" directives.\n\nGo into each directory and locate \"cgi-bin\" files. Remove any script that is not needed for application operation.\n\nEnsure this process is documented and approved by the ISSO."
         }
       },
-      "SV-214245": {
+      "V-214245": {
         "tags": {
           "check_id__added": "C-15459r276995_chk",
           "documentable__added": false,
@@ -426,10 +426,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214245",
+        "id": "V-214245",
         "descs": {}
       },
-      "SV-214246": {
+      "V-214246": {
         "tags": {
           "check_id__added": "C-15460r881428_chk",
           "documentable__added": false,
@@ -444,13 +444,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214246",
+        "id": "V-214246",
         "descs": {
           "check": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used. \nSearch for the \"Listen\" directive:\n\n# cat /<path_to_file>/httpd.conf | grep -i \"Listen\"\n\nVerify that any enabled \"Listen\" directives specify both an IP address and port number.\n\nIf the \"Listen\" directive is found with only an IP address or only a port number specified, this is finding.\n\nIf the IP address is all zeros (i.e., 0.0.0.0:80 or [::ffff:0.0.0.0]:80), this is a finding.\n\nIf the \"Listen\" directive does not exist, this is a finding.",
           "fix": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nSet the \"Listen\" directive to listen on a specific IP address and port.\n\nRestart Apache: apachectl restart"
         }
       },
-      "SV-214247": {
+      "V-214247": {
         "tags": {
           "check_id__added": "C-15461r277001_chk",
           "documentable__added": false,
@@ -462,10 +462,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214247",
+        "id": "V-214247",
         "descs": {}
       },
-      "SV-214248": {
+      "V-214248": {
         "tags": {
           "satisfies__deleted": [],
           "check_id__added": "C-15462r505082_chk",
@@ -481,11 +481,11 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214248",
+        "id": "V-214248",
         "desc": "By separating Apache web server security functions from non-privileged users, roles can be developed that can then be used to administer the Apache web server. Forcing users to change from a non-privileged account to a privileged account when operating on the Apache web server or on security-relevant information forces users to only operate as a Web Server Administrator when necessary. Operating in this manner allows for better logging of changes and better forensic information and limits accidental changes to the Apache web server.\n\nTo limit changes to the Apache web server and limit exposure to any adverse effects from the changes, files such as the Apache web server application files, libraries, and configuration files must have permissions and ownership set properly to only allow privileged users access.",
         "descs": {}
       },
-      "SV-214249": {
+      "V-214249": {
         "tags": {
           "check_id__added": "C-15463r277007_chk",
           "documentable__added": false,
@@ -497,10 +497,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214249",
+        "id": "V-214249",
         "descs": {}
       },
-      "SV-214250": {
+      "V-214250": {
         "tags": {
           "check_id__added": "C-15464r881431_chk",
           "documentable__added": false,
@@ -512,13 +512,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214250",
+        "id": "V-214250",
         "descs": {
           "check": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used. \n\nSearch for the following directive:\n\n\"SessionMaxAge\"\n\n# cat /<path_to_file>/httpd.conf | grep -i \"SessionMaxAge\"\n\nVerify the value of \"SessionMaxAge\" is set to \"600\" or less.\n\nIf the \"SessionMaxAge\" does not exist or is set to more than \"600\", this is a finding.",
           "fix": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nAdd the following line to the \"httpd.conf\" file:\n\nSessionMaxAge 600\n\nRestart Apache: apachectl restart"
         }
       },
-      "SV-214251": {
+      "V-214251": {
         "tags": {
           "check_id__added": "C-15465r457879_chk",
           "documentable__added": false,
@@ -530,12 +530,12 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214251",
+        "id": "V-214251",
         "descs": {
           "check": "Note: For web servers acting as a public facing with static content that do not require authentication, this is Not Applicable.\n\nReview the web server documentation and configuration to determine if cookies between the web server and client are accessible by applications or web servers other than the originating pair.\n\ngrep SessionCookieName <'INSTALL LOCATION'>/mod_session.conf\n\nConfirm that the \"HttpOnly\" and \"Secure\" settings are present in the line returned.\n\nConfirm that the line does not contain the \"Domain\" cookie setting.\n\nVerify the \"headers_module (shared)\" module is loaded in the web server:\n\n\"# httpd -M \nVerify \" headers_module (shared)\" is returned in the list of Loaded Modules from the above command.\"\n\nIf the \"headers_module (shared)\" is not loaded, this is a finding."
         }
       },
-      "SV-214252": {
+      "V-214252": {
         "tags": {
           "check_id__added": "C-15466r881434_chk",
           "documentable__added": false,
@@ -547,12 +547,12 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214252",
+        "id": "V-214252",
         "descs": {
           "check": "Review the web server documentation and deployed configuration to determine the length of the generated session identifiers.\n\nFirst ensure that \"session_crypto\" is enabled:\n\nhttpd -M |grep session_crypto\n\nIf the above command returns \"session_crypto_module\", the module is enabled in the running server.\n\nDetermine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used. \n\nReview the \"httpd.conf\" file.\n\nIf the \"SessionCryptoCipher\" is not used or \"SessionCryptoCipher\" is not set to \"aes256\", this is a finding."
         }
       },
-      "SV-214253": {
+      "V-214253": {
         "tags": {
           "check_id__added": "C-15467r881436_chk",
           "documentable__added": false,
@@ -564,13 +564,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214253",
+        "id": "V-214253",
         "descs": {
           "check": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used. \n\nVerify the \"unique_id_module\" is loaded:\n\nrun httpd -M | grep unique_id \nIf no unique_id is returned, this is a finding.",
           "fix": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nLoad the \"unique_id_module\". \n\nExample: LoadModule unique_id_module modules/mod_unique_id.so\n\nRestart Apache: apachectl restart"
         }
       },
-      "SV-214254": {
+      "V-214254": {
         "tags": {
           "check_id__added": "C-15468r277022_chk",
           "documentable__added": false,
@@ -582,10 +582,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214254",
+        "id": "V-214254",
         "descs": {}
       },
-      "SV-214255": {
+      "V-214255": {
         "tags": {
           "check_id__added": "C-15469r881439_chk",
           "documentable__added": false,
@@ -600,13 +600,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214255",
+        "id": "V-214255",
         "descs": {
           "check": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used. \n\nVerify that the \"Timeout\" directive is specified to have a value of \"10\" seconds or less.\n\n# cat /<path_to_file>/httpd.conf | grep -i \"Timeout\"\n\nIf the \"Timeout\" directive is not configured or is set for more than \"10\" seconds, this is a finding.",
           "fix": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nAdd or modify the \"Timeout\" directive to have a value of \"10\" seconds or less:\n\n\"Timeout 10\""
         }
       },
-      "SV-214256": {
+      "V-214256": {
         "tags": {
           "check_id__added": "C-15470r881442_chk",
           "documentable__added": false,
@@ -618,13 +618,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214256",
+        "id": "V-214256",
         "descs": {
           "check": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used. \n\nIf the \"ErrorDocument\" directive is not being used for custom error pages for \"4xx\" or \"5xx\" HTTP status codes, this is a finding.\n\n# cat /<path_to_file>/httpd.conf | grep -i \"ErrorDocument\"",
           "fix": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nUse the \"ErrorDocument\" directive to enable custom error pages for 4xx or 5xx HTTP status codes.\n\nErrorDocument 500 \"Sorry, our script crashed. Oh dear\"\nErrorDocument 500 /cgi-bin/crash-recover\nErrorDocument 500 http://error.example.com/server_error.html\nErrorDocument 404 /errors/not_found.html\nErrorDocument 401 /subscription/how_to_subscribe.html\n\nThe syntax of the ErrorDocument directive is:\n\nErrorDocument <3-digit-code> <action>\n\nAdditional information: \n\nhttps://httpd.apache.org/docs/2.4/custom-error.html"
         }
       },
-      "SV-214257": {
+      "V-214257": {
         "tags": {
           "check_id__added": "C-15471r881445_chk",
           "documentable__added": false,
@@ -636,13 +636,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214257",
+        "id": "V-214257",
         "descs": {
           "check": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used. \n\nFor any enabled \"TraceEnable\" directives, verify they are part of the server-level configuration (i.e., not nested in a \"Directory\" or \"Location\" directive). \n\nVerify that the \"TraceEnable\" directive is set to \"Off\":\n\n# cat /<path_to_file>/httpd.conf | grep -i \"TraceEnable\"\n\nIf the \"TraceEnable\" directive is not part of the server-level configuration and/or is not set to \"Off\", this is a finding.\n\nIf the directive does not exist in the \"conf\" file, this is a finding because the default value is \"On\".\n\nIf the \"LogLevel\" directive is not being used, this is a finding: \n\n# cat /<path_to_file>/httpd.conf | grep -i \"LogLevel\"",
           "fix": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nAdd or set the value of \"TraceEnable\" to \"Off\". \n\nSet the \"LogLevel\" directive to \"info\" or below."
         }
       },
-      "SV-214258": {
+      "V-214258": {
         "tags": {
           "check_id__added": "C-15472r881448_chk",
           "documentable__added": false,
@@ -654,14 +654,14 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214258",
+        "id": "V-214258",
         "desc": "Leaving sessions open indefinitely is a major security risk. An attacker can easily use an already authenticated session to access the hosted application as the previously authenticated user. By closing sessions after a set period of inactivity, the Apache web server can make certain that those sessions that are not closed through the user logging out of an application are eventually closed. mod_reqtimeout is an Apache module designed to shut down connections from clients taking too long to send their request, as seen in many attacks. This module provides a directive that allows Apache to close the connection if it senses that the client is not sending data quickly enough.\n\nAcceptable values are 5 minutes for high-value applications, 10 minutes for medium-value applications, and 20 minutes for low-value applications.",
         "descs": {
           "check": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used. \n\nVerify the \"reqtimeout_module\" is loaded:\n\nChange to the root directory of Apache and run the following command to verify the \"reqtimeout_module\" is loaded:\n\n# httpd -M | grep reqtimeout_module\nOutout: reqtimeout_module (shared)\n\nIf the \"reqtimeout_module\" is not loaded, this is a finding.\n\nVerify the \"RequestReadTimeout\" directive is configured. \nExample: RequestReadTimeout handshake=5 header=10 body=30\nAllows for 5 seconds to complete the TLS handshake, 10 seconds to receive the request headers, and 30 seconds for receiving the request body.\nThe values will depend upon the website. \nThe intent of this requirement is to ensure the RequestReadTimeout is explicitly configured.\nIf the \"reqtimeout_module\" is loaded and the \"RequestReadTimeout\" directive is not configured, this is a finding.",
           "fix": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nLoad the \"reqtimeout_module\".\n\nSet the \"RequestReadTimeout\" directive to specific values applicable to the website."
         }
       },
-      "SV-214259": {
+      "V-214259": {
         "tags": {
           "check_id__added": "C-15473r881451_chk",
           "documentable__added": false,
@@ -673,12 +673,12 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214259",
+        "id": "V-214259",
         "descs": {
           "check": "If external controls such as host-based firewalls are used to restrict this access, this check is Not Applicable.\n\nDetermine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used. \n\nSearch for the \"RequireAll\" directive:\n\n# cat /<path_to_file>/httpd.conf | grep -i \"RequireAll\"\n\nIf \"RequireAll\" is not configured, or IP ranges configured to allow are not restrictive enough to prevent connections from nonsecure zones, this is a finding."
         }
       },
-      "SV-214260": {
+      "V-214260": {
         "tags": {
           "check_id__added": "C-15474r881453_chk",
           "documentable__added": false,
@@ -690,13 +690,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214260",
+        "id": "V-214260",
         "descs": {
           "check": "Interview the SA and Web Manager.\n\nAsk for documentation for the Apache web server administration.\n\nVerify there are documented procedures for shutting down an Apache website in the event of an attack. \n\nThe procedure must, at a minimum, provide the following steps:\n\n1. Determine the respective website for the application at risk of an attack.\n\n2. Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file|pidlog'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n-D DEFAULT_PIDLOG=”/run/httpd/httpd.pid”\n \n3. Search for the PidFile runtime directive. (This example uses the combined results of HTTPD_ROOT and SERVER_CONFIG_FILE, above.) \n\n# grep -i pidfile /etc/httpd/conf/httpd.conf  \n\n4. If this command returns a result, use this value in the kill command, otherwise, use the DEFAULT_PIDLOG value, above.\n\n# kill -TERM `cat <FULLY-QUALIFIED_PIDFILE_FILENAME>`\nNote: These should be documented steps, validators should not run kill commands while reviewing production systems.\n\nIf the web server is not capable of or cannot be configured to disconnect or disable remote access to the hosted applications when necessary, this is a finding.",
           "fix": "Prepare documented procedures for shutting down an Apache website in the event of an attack.\n\nThe procedure should, at a minimum, provide the following steps:\n\nSearch for the PidFile runtime directive. (This example uses the combined results of HTTPD_ROOT and SERVER_CONFIG_FILE, above.) If this command returns a result, use this value in the kill command, otherwise, use the DEFAULT_PIDLOG value, above.\n\nIn a command line, enter the following command:\n\n# grep -i pidfile /etc/httpd/conf/httpd.conf  \n\n# kill -TERM 'cat <FULLY-QUALIFIED_PIDFILE_FILENAME>'"
         }
       },
-      "SV-214261": {
+      "V-214261": {
         "tags": {
           "check_id__added": "C-15475r277043_chk",
           "documentable__added": false,
@@ -708,10 +708,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214261",
+        "id": "V-214261",
         "descs": {}
       },
-      "SV-214262": {
+      "V-214262": {
         "tags": {
           "check_id__added": "C-15476r277046_chk",
           "documentable__added": false,
@@ -723,10 +723,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214262",
+        "id": "V-214262",
         "descs": {}
       },
-      "SV-214263": {
+      "V-214263": {
         "tags": {
           "check_id__added": "C-15477r277049_chk",
           "documentable__added": false,
@@ -738,10 +738,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214263",
+        "id": "V-214263",
         "descs": {}
       },
-      "SV-214264": {
+      "V-214264": {
         "tags": {
           "check_id__added": "C-15478r277052_chk",
           "documentable__added": false,
@@ -753,10 +753,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214264",
+        "id": "V-214264",
         "descs": {}
       },
-      "SV-214265": {
+      "V-214265": {
         "tags": {
           "check_id__added": "C-15479r881455_chk",
           "documentable__added": false,
@@ -768,12 +768,12 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214265",
+        "id": "V-214265",
         "descs": {
           "check": "Review the web server documentation and configuration to determine the time stamp format for log data.\n\nDetermine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used.  \n\nSearch for the \"log_config_module\" directive:\n\n# cat /<path_to_file>/httpd.conf | grep -i \"LogFormat\"\n\nVerify the \"LogFormat\" directive exists.\n\nIf the \"LogFormat\" directive does not exist, this is a finding.\n\nVerify the \"LogFormat\" line contains the \"%t\" flag.\n \nIf \"%t\" flag is not present, time is not mapped to UTC or GMT time, this is a finding."
         }
       },
-      "SV-214266": {
+      "V-214266": {
         "tags": {
           "check_id__added": "C-15480r277058_chk",
           "documentable__added": false,
@@ -785,10 +785,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214266",
+        "id": "V-214266",
         "descs": {}
       },
-      "SV-214267": {
+      "V-214267": {
         "tags": {
           "check_id__added": "C-15481r881457_chk",
           "documentable__added": false,
@@ -803,12 +803,12 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214267",
+        "id": "V-214267",
         "descs": {
           "check": "Review the web server documentation and deployed configuration to determine where the process ID is stored and which utilities are used to start/stop the web server.\n\nLocate the httpd.pid file and list its permission set and owner/group\n\n# find / -name “httpd.pid\nOutput should be similar to: /run/httpd/httpd.pid \n\n# ls -laH /run/httpd/httpd.pid\nOutput should be similar -rw-r--r--. 1 root root 5 Jun 13 03:18 /run/httpd/httpd.pid\n\nIf the file owner/group is not an administrative service account, this is a finding.\n\nIf permission set is not 644 or more restrictive, this is a finding.\n \nVerify the Apache service utilities (binaries) have the correct permission set and are user/group owned by an administrator account\n\n# ls -laH /usr/sbin/service\nOutput should be similar: -rwxr-xr-x. 1 root root 3.2K Aug 19, 2019 /usr/sbin/service\n\n# ls -laH /usr/sbin/apachectl\nOutput should be similar: -rwxr-xr-x. 1 root root 4.2K Oct 8, 2019 /usr/sbin/apachectl\n \nIf the service utilities owner/group is not an administrative service account, this is a finding.\n \nIf permission set is not 755 or more restrictive, this is a finding."
         }
       },
-      "SV-214268": {
+      "V-214268": {
         "tags": {
           "check_id__added": "C-15482r881459_chk",
           "documentable__added": false,
@@ -820,13 +820,13 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214268",
+        "id": "V-214268",
         "descs": {
           "check": "Verify the session cookie module is loaded\n\n# httpd -M | grep -i session_cookie_module\nOutput should look similar to: session_cookie_module (shared)\n\nDetermine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n\nNote: The apachectl front end is the preferred method for locating the Apache httpd file. For some Linux distributions, \"apache2ctl -V\" or  \"httpd -V\" can also be used. \n\nSearch for the directive \"Session\" in the \"httpd.conf\" file:\n\n# cat httpd.conf  | grep -i \"Session\"\nOutput should be similar to: \nSession on\nSessionCookieName httpOnly Secure\nSessionCryptoCipher aes256\nSessionMaxAge 600\n\nNote: SSL directives can also be located in /etc/httpd/conf.d/ssl.conf.\n\nIf the \"Session\" and \"SessionCookieName\" directives are not present, this is a finding.\n\nIf \"Session\" is not set to \"on\" and \"SessionCookieName\" does not contain \"httpOnly\" and \"secure\", this is a finding.",
           "fix": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" file:\n\n# apachectl -V | egrep -i 'httpd_root|server_config_file'\n-D HTTPD_ROOT=\"/etc/httpd\"\n-D SERVER_CONFIG_FILE=\"conf/httpd.conf\"\n \nNOTE: SSL directives may also be located in /etc/httpd/conf.d/ssl.conf.\n\nSet \"Session\" to \"on\".\n\nEnsure the \"SessionCookieName\" directive includes \"httpOnly\" and \"secure\"."
         }
       },
-      "SV-214269": {
+      "V-214269": {
         "tags": {
           "check_id__added": "C-15483r881462_chk",
           "documentable__added": false,
@@ -838,14 +838,14 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214269",
+        "id": "V-214269",
         "desc": "During the initial setup of a Transport Layer Security (TLS) connection to the Apache web server, the client sends a list of supported cipher suites in order of preference. The Apache web server will reply with the cipher suite it will use for communication from the client list. If an attacker can intercept the submission of cipher suites to the Apache web server and place, as the preferred cipher suite, a weak export suite, the encryption used for the session becomes easy for the attacker to break, often within minutes to hours.\n\nConfiguring the Apache server with only strong ciphersuites, denying or disabling weak ciphersuites, will prevent this vulnerability.",
         "descs": {
           "check": "Determine the location of the \"HTTPD_ROOT\" directory and the \"httpd.conf\" and \"ssl.conf\" files:\n\nSearch the httpd.conf and ssl.conf file for the following uncommented directive: SSLCipherSuite\n\n# cat httpd.conf  | grep -i SSLCipherSuite\nOutput: None\n\n# cat /etc/httpd/conf.d/ssl.conf | grep -i SSLCipherSuite\nOutput: SSLCipherSuite HIGH:3DES:!NULL:!MD5:!SEED:!IDEA:!EXPORT\n\nFor all enabled SSLCipherSuite directives, ensure the cipher specification string contains the kill cipher from list option for all export cipher suites, i.e., !EXPORT, which may be abbreviated !EXP as in the following example:\n\nExample: SSLCipherSuite=\"HIGH:MEDIUM:!MD5!EXP:!NULL:!LOW:!ADH\n\nIf the SSLCipherSuite directive does not contain !EXPORT or !EXP or there are no enabled SSLCipherSuite directives, this is a finding.",
           "fix": "Update the cipher specification string for all enabled SSLCipherSuite directives to include !EXPORT."
         }
       },
-      "SV-214270": {
+      "V-214270": {
         "tags": {
           "check_id__added": "C-15484r854710_chk",
           "documentable__added": false,
@@ -857,12 +857,12 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214270",
+        "id": "V-214270",
         "descs": {
           "check": "Determine the most recent patch level of the Apache Web Server 2.4 software, as posted on the Apache HTTP Server Project website. If the Apache installation is a proprietary installation supporting an application and is supported by a vendor, determine the most recent patch level of the vendor’s installation.\n\nIn a command line, type \"httpd -v\".\n\nIf the version is more than one version behind the most recent patch level, this is a finding."
         }
       },
-      "SV-214271": {
+      "V-214271": {
         "tags": {
           "check_id__added": "C-15485r277073_chk",
           "documentable__added": false,
@@ -874,10 +874,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214271",
+        "id": "V-214271",
         "descs": {}
       },
-      "SV-214272": {
+      "V-214272": {
         "tags": {
           "check_id__added": "C-15486r277076_chk",
           "documentable__added": false,
@@ -889,10 +889,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214272",
+        "id": "V-214272",
         "descs": {}
       },
-      "SV-214273": {
+      "V-214273": {
         "tags": {
           "check_id__added": "C-15487r277079_chk",
           "documentable__added": false,
@@ -904,10 +904,10 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214273",
+        "id": "V-214273",
         "descs": {}
       },
-      "SV-214274": {
+      "V-214274": {
         "tags": {
           "check_id__added": "C-15488r277082_chk",
           "documentable__added": false,
@@ -919,7 +919,7 @@
         "refs": [
           "DPMS Target Apache Server 2.4 UNIX Server"
         ],
-        "id": "SV-214274",
+        "id": "V-214274",
         "descs": {}
       }
     }
@@ -930,106 +930,106 @@
       "V-92759"
     ],
     "renamedControlIDs": {
-      "V-92597": "SV-214228",
-      "V-92599": "SV-214229",
-      "V-92601": "SV-214230",
-      "V-92607": "SV-214231",
-      "V-92609": "SV-214232",
-      "V-92621": "SV-214233",
-      "V-92627": "SV-214234",
-      "V-92629": "SV-214235",
-      "V-92631": "SV-214236",
-      "V-92635": "SV-214237",
-      "V-92637": "SV-214238",
-      "V-92639": "SV-214239",
-      "V-92641": "SV-214240",
-      "V-92643": "SV-214241",
-      "V-92645": "SV-214242",
-      "V-92653": "SV-214243",
-      "V-92655": "SV-214244",
-      "V-92659": "SV-214245",
-      "V-92661": "SV-214246",
-      "V-92671": "SV-214247",
-      "V-92673": "SV-214248",
-      "V-92675": "SV-214249",
-      "V-92677": "SV-214250",
-      "V-92679": "SV-214251",
-      "V-92687": "SV-214252",
-      "V-92689": "SV-214253",
-      "V-92695": "SV-214254",
-      "V-92697": "SV-214255",
-      "V-92699": "SV-214256",
-      "V-92701": "SV-214257",
-      "V-92705": "SV-214258",
-      "V-92709": "SV-214259",
-      "V-92711": "SV-214260",
-      "V-92713": "SV-214261",
-      "V-92715": "SV-214262",
-      "V-92717": "SV-214263",
-      "V-92719": "SV-214264",
-      "V-92723": "SV-214265",
-      "V-92727": "SV-214266",
-      "V-92731": "SV-214267",
-      "V-92741": "SV-214268",
-      "V-92745": "SV-214269",
-      "V-92749": "SV-214270",
-      "V-92751": "SV-214271",
-      "V-92753": "SV-214272",
-      "V-92755": "SV-214273",
-      "V-92757": "SV-214274"
+      "V-92597": "V-214228",
+      "V-92599": "V-214229",
+      "V-92601": "V-214230",
+      "V-92607": "V-214231",
+      "V-92609": "V-214232",
+      "V-92621": "V-214233",
+      "V-92627": "V-214234",
+      "V-92629": "V-214235",
+      "V-92631": "V-214236",
+      "V-92635": "V-214237",
+      "V-92637": "V-214238",
+      "V-92639": "V-214239",
+      "V-92641": "V-214240",
+      "V-92643": "V-214241",
+      "V-92645": "V-214242",
+      "V-92653": "V-214243",
+      "V-92655": "V-214244",
+      "V-92659": "V-214245",
+      "V-92661": "V-214246",
+      "V-92671": "V-214247",
+      "V-92673": "V-214248",
+      "V-92675": "V-214249",
+      "V-92677": "V-214250",
+      "V-92679": "V-214251",
+      "V-92687": "V-214252",
+      "V-92689": "V-214253",
+      "V-92695": "V-214254",
+      "V-92697": "V-214255",
+      "V-92699": "V-214256",
+      "V-92701": "V-214257",
+      "V-92705": "V-214258",
+      "V-92709": "V-214259",
+      "V-92711": "V-214260",
+      "V-92713": "V-214261",
+      "V-92715": "V-214262",
+      "V-92717": "V-214263",
+      "V-92719": "V-214264",
+      "V-92723": "V-214265",
+      "V-92727": "V-214266",
+      "V-92731": "V-214267",
+      "V-92741": "V-214268",
+      "V-92745": "V-214269",
+      "V-92749": "V-214270",
+      "V-92751": "V-214271",
+      "V-92753": "V-214272",
+      "V-92755": "V-214273",
+      "V-92757": "V-214274"
     },
     "changedControlIDs": [
-      "SV-214228",
-      "SV-214229",
-      "SV-214230",
-      "SV-214231",
-      "SV-214232",
-      "SV-214233",
-      "SV-214234",
-      "SV-214235",
-      "SV-214236",
-      "SV-214237",
-      "SV-214238",
-      "SV-214239",
-      "SV-214240",
-      "SV-214241",
-      "SV-214242",
-      "SV-214243",
-      "SV-214244",
-      "SV-214245",
-      "SV-214246",
-      "SV-214247",
-      "SV-214248",
-      "SV-214249",
-      "SV-214250",
-      "SV-214251",
-      "SV-214252",
-      "SV-214253",
-      "SV-214254",
-      "SV-214255",
-      "SV-214256",
-      "SV-214257",
-      "SV-214258",
-      "SV-214259",
-      "SV-214260",
-      "SV-214261",
-      "SV-214262",
-      "SV-214263",
-      "SV-214264",
-      "SV-214265",
-      "SV-214266",
-      "SV-214267",
-      "SV-214268",
-      "SV-214269",
-      "SV-214270",
-      "SV-214271",
-      "SV-214272",
-      "SV-214273",
-      "SV-214274"
+      "V-214228",
+      "V-214229",
+      "V-214230",
+      "V-214231",
+      "V-214232",
+      "V-214233",
+      "V-214234",
+      "V-214235",
+      "V-214236",
+      "V-214237",
+      "V-214238",
+      "V-214239",
+      "V-214240",
+      "V-214241",
+      "V-214242",
+      "V-214243",
+      "V-214244",
+      "V-214245",
+      "V-214246",
+      "V-214247",
+      "V-214248",
+      "V-214249",
+      "V-214250",
+      "V-214251",
+      "V-214252",
+      "V-214253",
+      "V-214254",
+      "V-214255",
+      "V-214256",
+      "V-214257",
+      "V-214258",
+      "V-214259",
+      "V-214260",
+      "V-214261",
+      "V-214262",
+      "V-214263",
+      "V-214264",
+      "V-214265",
+      "V-214266",
+      "V-214267",
+      "V-214268",
+      "V-214269",
+      "V-214270",
+      "V-214271",
+      "V-214272",
+      "V-214273",
+      "V-214274"
     ],
     "addedControls": {},
     "changedControls": {
-      "SV-214228": {
+      "V-214228": {
         "describe__deleted": "  config_path = input('config_path')\n\n  describe apache_conf(config_path) do\n    its('KeepAlive') { should_not be_nil }\n  end\n\n  unless apache_conf(config_path).KeepAlive.nil?\n    apache_conf(config_path).KeepAlive.each do |value|\n      describe 'KeepAlive value should be set to On' do\n        subject { value }\n        it { should cmp 'On' }\n      end\n    end\n  end\n\n  describe apache_conf(config_path) do\n    its('MaxKeepAliveRequests') { should_not be_nil }\n  end\n\n  unless apache_conf(config_path).MaxKeepAliveRequests.nil?\n    apache_conf(config_path).MaxKeepAliveRequests.each do |value|\n      describe 'If the value of \"MaxKeepAliveRequests\" is set to a value less than \"100\" or does not exist, this is a finding.' do\n        subject { value }\n        it { should cmp < '100' }\n      end\n    end\n  end",
         "tags": {
           "check_id__added": "C-15442r881402_chk",
@@ -1059,7 +1059,7 @@
         ],
         "id": {
           "__old": "V-92597",
-          "__new": "SV-214228"
+          "__new": "V-214228"
         },
         "title": {
           "__old": "The Apache web server must limit the number of allowed simultaneous\nsession requests.",
@@ -1082,7 +1082,7 @@
           }
         }
       },
-      "SV-214229": {
+      "V-214229": {
         "describe__deleted": "  config_path = input('config_path')\n  describe apache_conf(config_path) do\n    its('LoadModule') { should include 'session_module modules/mod_session.so' }\n    its('LoadModule') { should include 'usertrack_module modules/mod_usertrack.so' }\n  end",
         "tags": {
           "check_id__added": "C-15443r881405_chk",
@@ -1112,7 +1112,7 @@
         ],
         "id": {
           "__old": "V-92599",
-          "__new": "SV-214229"
+          "__new": "V-214229"
         },
         "desc": {
           "__old": "Session management is the practice of protecting the bulk of the user\nauthorization and identity information. This data can be stored on the client\nsystem or on the server.\n\n    When the session information is stored on the client, the session ID, along\nwith the user authorization and identity information, is sent along with each\nclient request and is stored in a cookie, embedded in the uniform resource\nlocator (URL), or placed in a hidden field on the displayed form. Each of these\noffers advantages and disadvantages. The biggest disadvantage to all three is\nthe possibility of the hijacking of a session along with all of the user's\ncredentials.\n\n    When the user authorization and identity information is stored on the\nserver in a protected and encrypted database, the communication between the\nclient and Apache web server will only send the session identifier, and the\nserver can then retrieve user credentials for the session when needed. If,\nduring transmission, the session were to be hijacked, the user's credentials\nwould not be compromised.",
@@ -1127,7 +1127,7 @@
           }
         }
       },
-      "SV-214230": {
+      "V-214230": {
         "describe__deleted": "  config_path = input('config_path')\n\n  ssl_module = command('httpd -M | grep ssl_module').stdout\n\n  describe ssl_module do\n    it { should include 'ssl_module' }\n  end\n\n  describe apache_conf(config_path) do\n    its('SSLCACertificateFile') { should_not be_nil }\n  end\n\n  unless apache_conf(config_path).SSLCACertificateFile.nil?\n    ca_path = File.dirname(apache_conf(config_path).SSLCACertificateFile[0])\n    ca_bundle = File.join(ca_path, 'ca-bundle.crt')\n    describe 'Examine CA Bundle' do\n      skip \"Check #{ca_bundle} to determine if the trusted CAs are DoD approved\"\n    end\n  end",
         "tags": {
           "check_id__added": "C-15444r881407_chk",
@@ -1191,7 +1191,7 @@
         ],
         "id": {
           "__old": "V-92601",
-          "__new": "SV-214230"
+          "__new": "V-214230"
         },
         "title": {
           "__old": "The Apache web server must use cryptography to protect the integrity\nof remote sessions.",
@@ -1214,7 +1214,7 @@
           }
         }
       },
-      "SV-214231": {
+      "V-214231": {
         "describe__deleted": "  config_path = input('config_path')\n  describe apache_conf(config_path) do\n    its('CustomLog') { should_not be_empty }\n  end",
         "tags": {
           "check_id__added": "C-15445r881409_chk",
@@ -1244,7 +1244,7 @@
         ],
         "id": {
           "__old": "V-92607",
-          "__new": "SV-214231"
+          "__new": "V-214231"
         },
         "desc": {
           "__old": "The server error logs are invaluable because they can also be used to\nidentify potential problems and enable proactive remediation. Log data can\nreveal anomalous behavior such as “not found” or “unauthorized” errors that may\nbe an evidence of attack attempts. Failure to enable error logging can\nsignificantly reduce the ability of Web Administrators to detect or remediate\nproblems. The CustomLog directive specifies the log file, syslog facility, or\npiped logging utility.",
@@ -1263,7 +1263,7 @@
           }
         }
       },
-      "SV-214232": {
+      "V-214232": {
         "describe__deleted": "  config_path = input('config_path')\n  describe apache_conf(config_path) do\n    its('LogFormat') { should_not be_empty }\n  end\n\n  describe 'Module log_config_module should be installed' do\n    subject { command('httpd -M | grep -i log_config_module').stdout.strip }\n    it { should_not cmp '' }\n  end",
         "tags": {
           "check_id__added": "C-15446r881411_chk",
@@ -1349,7 +1349,7 @@
         ],
         "id": {
           "__old": "V-92609",
-          "__new": "SV-214232"
+          "__new": "V-214232"
         },
         "title": {
           "__old": "The Apache web server must generate, at a minimum, log records for\nsystem startup and shutdown, system access, and system authentication events.",
@@ -1372,7 +1372,7 @@
           }
         }
       },
-      "SV-214233": {
+      "V-214233": {
         "describe__deleted": "  describe 'This is a manual check' do\n    skip \"Review Apache web server logging capability. Review the location of the log files.\n    When the log file is displayed, review the source IP information in the log entries\n    and verify the entries do not reflect the IP address of the proxy server. If the log\n    entries in the log file(s) reflect the IP address of the client in addition to the\n    proxy address, this is not a finding. If the log entries in the log file(s) reflect\n    the IP address of the proxy server as the source, this is a finding.\"\n  end",
         "tags": {
           "check_id__added": "C-15447r881414_chk",
@@ -1412,7 +1412,7 @@
         ],
         "id": {
           "__old": "V-92621",
-          "__new": "SV-214233"
+          "__new": "V-214233"
         },
         "title": {
           "__old": "An Apache web server, behind a load balancer or proxy server, must\nproduce log records containing the client IP information as the source and\ndestination and not the load balancer or proxy IP information with each event.",
@@ -1435,7 +1435,7 @@
           }
         }
       },
-      "SV-214234": {
+      "V-214234": {
         "describe__deleted": "  describe 'Review server logging and alert configuration' do\n    skip \"Work with the SIEM administrator to determine if an alert is configured when audit\n    data is no longer received as expected. If there is no alert configured, this is a finding.\"\n  end",
         "tags": {
           "check_id__added": "C-15448r276962_chk",
@@ -1465,7 +1465,7 @@
         ],
         "id": {
           "__old": "V-92627",
-          "__new": "SV-214234"
+          "__new": "V-214234"
         },
         "title": {
           "__old": "The Apache web server must use a logging mechanism that is configured\nto alert the Information System Security Officer (ISSO) and System\nAdministrator (SA) in the event of a processing failure.",
@@ -1488,7 +1488,7 @@
           }
         }
       },
-      "SV-214235": {
+      "V-214235": {
         "describe__deleted": "  config_path = input('config_path')\n  apache_conf_dir = apache_conf(config_path).conf_dir\n  apache_logs_dir = File.join(apache_conf_dir[0], 'logs')\n  log_files = command(\"find #{apache_logs_dir}\").stdout.split(\"\\n\")\n\n  if !log_files.empty?\n    log_files.each do |log|\n      describe 'Only system administrators and service accounts running the server should have permissions to the files.' do\n        subject { file(log) }\n        its('owner') { should be_in input('server_admins') }\n        its('group') { should be_in input('server_admin_groups') }\n      end\n    end\n  else\n    describe 'Only system administrators and service accounts running the server should have permissions to the files.' do\n      skip 'Logs files could not be found. This check has to be manually reviewed.'\n    end\n  end",
         "tags": {
           "check_id__added": "C-15449r881416_chk",
@@ -1528,7 +1528,7 @@
         ],
         "id": {
           "__old": "V-92629",
-          "__new": "SV-214235"
+          "__new": "V-214235"
         },
         "title": {
           "__old": "The Apache web server log files must only be accessible by privileged\nusers.",
@@ -1551,7 +1551,7 @@
           }
         }
       },
-      "SV-214236": {
+      "V-214236": {
         "describe__deleted": "  config_path = input('config_path')\n  apache_conf_dir = apache_conf(config_path).conf_dir\n  apache_logs_dir = File.join(apache_conf_dir[0], 'logs')\n  log_files = command(\"find #{apache_logs_dir}\").stdout.split(\"\\n\")\n\n  if !log_files.empty?\n    log_files.each do |log|\n      describe 'Only system administrators and service accounts running the server should have permissions to the files.' do\n        subject { file(log) }\n        its('owner') { should be_in input('server_admins') }\n        its('group') { should be_in input('server_admin_groups') }\n      end\n    end\n  else\n    describe 'Only system administrators and service accounts running the server should have permissions to the files.' do\n      skip 'Logs files could not be found. This check has to be manually reviewed.'\n    end\n  end\n\n  describe apache_conf(config_path) do\n    its('ErrorLog') { should_not be_nil }\n  end",
         "tags": {
           "check_id__added": "C-15450r276968_chk",
@@ -1599,7 +1599,7 @@
         ],
         "id": {
           "__old": "V-92631",
-          "__new": "SV-214236"
+          "__new": "V-214236"
         },
         "title": {
           "__old": "The log information from the Apache web server must be protected from\nunauthorized modification or deletion.",
@@ -1622,7 +1622,7 @@
           }
         }
       },
-      "SV-214237": {
+      "V-214237": {
         "describe__deleted": "  describe 'Review backup and recovery process for the web server' do\n    skip 'Interview the Information System Security Officer, System Administrator, Web Manager, Webmaster, or\n    developers as necessary to determine whether a tested and verifiable backup strategy has been implemented\n    for web server software and all web server data files.'\n  end",
         "tags": {
           "check_id__added": "C-15451r276971_chk",
@@ -1652,7 +1652,7 @@
         ],
         "id": {
           "__old": "V-92635",
-          "__new": "SV-214237"
+          "__new": "V-214237"
         },
         "title": {
           "__old": "The log data and records from the Apache web server must be backed up\nonto a different system or media.",
@@ -1671,7 +1671,7 @@
           }
         }
       },
-      "SV-214238": {
+      "V-214238": {
         "describe__deleted": "  modules_command = 'httpd -M'\n  modules = command(modules_command).stdout\n\n  describe 'Check for unused modules' do\n    skip \"The output of the command #{modules_command} is below. Validate that all displayed modules are required for operations.\\nModules Installed: \\n#{modules}\"\n  end",
         "tags": {
           "check_id__added": "C-15452r276974_chk",
@@ -1701,7 +1701,7 @@
         ],
         "id": {
           "__old": "V-92637",
-          "__new": "SV-214238"
+          "__new": "V-214238"
         },
         "title": {
           "__old": "Expansion modules must be fully reviewed, tested, and signed before\nthey can exist on a production Apache web server.",
@@ -1720,7 +1720,7 @@
           }
         }
       },
-      "SV-214239": {
+      "V-214239": {
         "describe__deleted": "  config_path = input('config_path')\n\n  describe apache_conf(config_path) do\n    its('AuthUserFile') { should be_nil }\n  end",
         "tags": {
           "check_id__added": "C-15453r276977_chk",
@@ -1750,7 +1750,7 @@
         ],
         "id": {
           "__old": "V-92639",
-          "__new": "SV-214239"
+          "__new": "V-214239"
         },
         "title": {
           "__old": "The Apache web server must not perform user management for hosted\napplications.",
@@ -1773,7 +1773,7 @@
           }
         }
       },
-      "SV-214240": {
+      "V-214240": {
         "describe__deleted": "  describe 'The Apache web server must only contain services and functions necessary for operation' do\n    skip 'Verify the document root directory and the configuration files do not provide for default index.html or welcome page.'\n  end\n\n  describe package('httpd-manual') do\n    it { should_not be_installed }\n  end\n\n  config_path = input('config_path')\n  apache_config = apache_conf(config_path)\n\n  describe apache_config.params('SetHandler') do\n    it { should_not include 'server-status' }\n    it { should_not include 'server-info' }\n    it { should_not include 'perl-script' }\n  end",
         "tags": {
           "check_id__added": "C-15454r622512_chk",
@@ -1803,7 +1803,7 @@
         ],
         "id": {
           "__old": "V-92641",
-          "__new": "SV-214240"
+          "__new": "V-214240"
         },
         "title": {
           "__old": "The Apache web server must only contain services and functions\nnecessary for operation.",
@@ -1826,7 +1826,7 @@
           }
         }
       },
-      "SV-214241": {
+      "V-214241": {
         "describe__deleted": "  proxy_server = input('proxy_server')\n  config_path = input('config_path')\n  modules_command = 'httpd -M | sort'\n  installed_modules = command(modules_command).stdout.split\n\n  check_modules = %w(\n    proxy_module\n    proxy_ajp_module\n    proxy_balancer_module\n    proxy_ftp_module\n    proxy_http_module\n    proxy_connect_module\n  )\n\n  if proxy_server\n    impact 0.0\n  else\n    impact 0.5\n  end\n\n  proxy_modules = installed_modules.select do |im|\n    check_modules.any? { |cm| im.include?(cm) }\n  end\n\n  describe 'Proxy modules should not be present on the Apache server' do\n    subject { proxy_modules.empty? }\n    it { should cmp true }\n  end\n\n  unless apache_conf(config_path).ProxyRequest.nil?\n    apache_conf(config_path).ProxyRequest.each do |value|\n      describe 'ProxyRequest value should be set to On' do\n        subject { value }\n        it { should cmp 'On' }\n      end\n    end\n  end",
         "tags": {
           "check_id__added": "C-15455r881420_chk",
@@ -1856,7 +1856,7 @@
         ],
         "id": {
           "__old": "V-92643",
-          "__new": "SV-214241"
+          "__new": "V-214241"
         },
         "desc": {
           "__old": "A web server should be primarily a web server or a proxy server but\nnot both, for the same reasons that other multi-use servers are not\nrecommended. Scanning for web servers that will also proxy requests into an\notherwise protected network is a very common attack, making the attack\nanonymous.",
@@ -1875,7 +1875,7 @@
           }
         }
       },
-      "SV-214242": {
+      "V-214242": {
         "describe__deleted": "  describe 'Remove any unnecessary applications per ISSO documentation.' do\n    skip 'If the site requires the use of a particular piece of software, verify that the Information System Security Officer (ISSO) maintains documentation identifying this software as necessary for operations. The software must be operated at the vendor’s current patch level and must be a supported vendor release.'\n  end",
         "tags": {
           "check_id__added": "C-15456r622509_chk",
@@ -1905,7 +1905,7 @@
         ],
         "id": {
           "__old": "V-92645",
-          "__new": "SV-214242"
+          "__new": "V-214242"
         },
         "title": {
           "__old": "The Apache web server must provide install options to exclude the\ninstallation of documentation, sample code, example applications, and\ntutorials.",
@@ -1928,7 +1928,7 @@
           }
         }
       },
-      "SV-214243": {
+      "V-214243": {
         "describe__deleted": "  config_path = input('config_path')\n\n  describe apache_conf(config_path) do\n    its('AddHandler.to_s') { should_not match '.exe' }\n    its('AddHandler.to_s') { should_not match '.dll' }\n    its('AddHandler.to_s') { should_not match '.com' }\n    its('AddHandler.to_s') { should_not match '.bat' }\n    its('AddHandler.to_s') { should_not match '.csh' }\n  end\n\n  describe apache_conf(config_path) do\n    its('Action.to_s') { should_not match '.exe' }\n    its('Action.to_s') { should_not match '.dll' }\n    its('Action.to_s') { should_not match '.com' }\n    its('Action.to_s') { should_not match '.bat' }\n    its('Action.to_s') { should_not match '.csh' }\n  end",
         "tags": {
           "check_id__added": "C-15457r881422_chk",
@@ -1958,7 +1958,7 @@
         ],
         "id": {
           "__old": "V-92653",
-          "__new": "SV-214243"
+          "__new": "V-214243"
         },
         "title": {
           "__old": "The Apache web server must have resource mappings set to disable the\nserving of certain file types.",
@@ -1981,7 +1981,7 @@
           }
         }
       },
-      "SV-214244": {
+      "V-214244": {
         "describe__deleted": "  config_path = input('config_path')\n  apache_conf_file = apache_conf(config_path)\n  scripts = apache_conf_file.params('Script')\n  script_alias = apache_conf_file.params('ScriptAlias')\n  script_alias_match = apache_conf_file.params('ScriptAliasMatch')\n  script_interpreter_source = apache_conf_file.params('ScriptInterpreterSource')\n\n  check_dirs_final = []\n\n  scripts ? scripts.map { |e| check_dirs_final.push(e) } : nil\n  script_alias ? script_alias.map { |e| check_dirs_final.push(e) } : nil\n  script_alias_match ? script_alias_match.map { |e| check_dirs_final.push(e) } : nil\n  script_interpreter_source ? script_interpreter_source.map { |e| check_dirs_final.push(e) } : nil\n\n  describe 'Check for scripts that are present and are not needed for application operation' do\n    skip \"The following locations need to be checked for cgi-bin files. Remove any scripts that are not needed.\\n\\nScript Locations:\\n#{check_dirs_final.join(\"\\n\")}\"\n  end",
         "tags": {
           "check_id__added": "C-15458r881425_chk",
@@ -2011,7 +2011,7 @@
         ],
         "id": {
           "__old": "V-92655",
-          "__new": "SV-214244"
+          "__new": "V-214244"
         },
         "title": {
           "__old": "The Apache web server must allow the mappings to unused and vulnerable\nscripts to be removed.",
@@ -2034,7 +2034,7 @@
           }
         }
       },
-      "SV-214245": {
+      "V-214245": {
         "describe__deleted": "  modules_command = 'httpd -M | sort'\n  installed_modules = command(modules_command).stdout.split\n\n  check_modules = %w(\n    dav_module\n    dav_fs_module\n    dav_lock_module\n  )\n\n  bad_modules = installed_modules.select do |i|\n    check_modules.any? { |j| i.include?(j) }\n  end\n\n  describe bad_modules do\n    it 'The following modules should be removed from Apache server' do\n      failure_message = \"The following modules should be removed: #{bad_modules.join(', ')}\"\n      expect(bad_modules).to be_empty, failure_message\n    end\n  end",
         "tags": {
           "check_id__added": "C-15459r276995_chk",
@@ -2064,7 +2064,7 @@
         ],
         "id": {
           "__old": "V-92659",
-          "__new": "SV-214245"
+          "__new": "V-214245"
         },
         "title": {
           "__old": "The Apache web server must have Web Distributed Authoring (WebDAV)\ndisabled.",
@@ -2087,7 +2087,7 @@
           }
         }
       },
-      "SV-214246": {
+      "V-214246": {
         "describe__deleted": "  config_path = input('config_path')\n  listen = apache_conf(config_path).params('Listen')\n\n  if !listen.nil?\n    listen.each do |address|\n      describe address do\n        it { should match /^(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5]):[0-9]+$/ }\n        it { should_not match /^0.0.0.0:[0-9]+$/ }\n      end\n    end\n  else\n    describe apache_conf(config_path) do\n      its('Listen') { should_not cmp nil }\n    end\n  end",
         "tags": {
           "check_id__added": "C-15460r881428_chk",
@@ -2130,7 +2130,7 @@
         ],
         "id": {
           "__old": "V-92661",
-          "__new": "SV-214246"
+          "__new": "V-214246"
         },
         "title": {
           "__old": "The Apache web server must be configured to use a specified IP address\nand port.",
@@ -2153,7 +2153,7 @@
           }
         }
       },
-      "SV-214247": {
+      "V-214247": {
         "describe__deleted": "  describe 'Check the web server documentation and configration to determine web server accounts' do\n    skip 'Any directories or files owned by anyone other than an administrative service account is a finding. If non-privileged web server accounts are available with access to functions, directories, or files not needed for the role of the account, this is a finding'\n  end",
         "tags": {
           "check_id__added": "C-15461r277001_chk",
@@ -2183,7 +2183,7 @@
         ],
         "id": {
           "__old": "V-92671",
-          "__new": "SV-214247"
+          "__new": "V-214247"
         },
         "title": {
           "__old": "Apache web server accounts accessing the directory tree, the shell, or\nother operating system functions and utilities must only be administrative\naccounts.",
@@ -2206,7 +2206,7 @@
           }
         }
       },
-      "SV-214248": {
+      "V-214248": {
         "describe__deleted": "  describe 'Obtain a list of the user accounts for the system, noting the privileges for each account' do\n    skip \"Verify with the SA or the Information System Security Officer (ISSO) that all privileged accounts are mission essential and documented.\n      Verify with the SA or the ISSO that all non-administrator access to shell scripts and operating system functions are mission essential and documented.\n      If undocumented privileged accounts are present, this is a finding.\n      If undocumented access to shell scripts or operating system functions is present, this is a finding.\"\n  end",
         "tags": {
           "satisfies__deleted": [
@@ -2257,7 +2257,7 @@
         ],
         "id": {
           "__old": "V-92673",
-          "__new": "SV-214248"
+          "__new": "V-214248"
         },
         "title": {
           "__old": "Apache web server application directories,  libraries, and\nconfiguration files must only be accessible to privileged users.",
@@ -2280,7 +2280,7 @@
           }
         }
       },
-      "SV-214249": {
+      "V-214249": {
         "describe__deleted": "  describe 'The Apache web server must separate the hosted applications from hosted Apache web server management functionality.' do\n    skip \"Review the web server documentation and deployed configuration to determine whether hosted application functionality is separated from web server management functions.\n    If the functions are not separated, this is a finding.\"\n  end",
         "tags": {
           "check_id__added": "C-15463r277007_chk",
@@ -2310,7 +2310,7 @@
         ],
         "id": {
           "__old": "V-92675",
-          "__new": "SV-214249"
+          "__new": "V-214249"
         },
         "title": {
           "__old": "The Apache web server must separate the hosted applications from\nhosted Apache web server management functionality.",
@@ -2333,7 +2333,7 @@
           }
         }
       },
-      "SV-214250": {
+      "V-214250": {
         "describe__deleted": "  config_path = input('config_path')\n\n  describe apache_conf(config_path) do\n    its('SessionMaxAge') { should_not be_nil }\n  end\n\n  unless apache_conf(config_path).SessionMaxAge.nil?\n    apache_conf(config_path).SessionMaxAge.each do |value|\n      describe 'SessionMaxAge value should be less than or equal to 600' do\n        subject { value }\n        it { should be <= 600 }\n      end\n    end\n  end",
         "tags": {
           "check_id__added": "C-15464r881431_chk",
@@ -2363,7 +2363,7 @@
         ],
         "id": {
           "__old": "V-92677",
-          "__new": "SV-214250"
+          "__new": "V-214250"
         },
         "title": {
           "__old": "The Apache web server must invalidate session identifiers upon hosted\napplication user logout or other session termination.",
@@ -2386,7 +2386,7 @@
           }
         }
       },
-      "SV-214251": {
+      "V-214251": {
         "describe__deleted": "  config_path = input('config_path')\n  describe apache_conf(config_path) do\n    its('SessionCookieName') { should_not be_nil }\n  end\n\n  unless apache_conf(config_path).SessionCookieName.nil?\n    apache_conf(config_path).SessionCookieName.each do |value|\n      describe 'SessionCookieName value should return httpOnly and Secure' do\n        subject { value }\n        it { should include 'httpOnly' }\n        it { should include 'Secure' }\n      end\n    end\n  end\n\n  headers_module = command('httpd -M | grep -i headers_module (shared)')\n\n  describe headers_module.stdout.strip do\n    it { should_not cmp '' }\n  end",
         "tags": {
           "check_id__added": "C-15465r457879_chk",
@@ -2416,7 +2416,7 @@
         ],
         "id": {
           "__old": "V-92679",
-          "__new": "SV-214251"
+          "__new": "V-214251"
         },
         "title": {
           "__old": "Cookies exchanged between the Apache web server and client, such as\nsession cookies, must have security settings that disallow cookie access\noutside the originating Apache web server and hosted application.",
@@ -2439,7 +2439,7 @@
           }
         }
       },
-      "SV-214252": {
+      "V-214252": {
         "describe__deleted": "  config_path = input('config_path')\n  session_crypto = command('httpd -M | grep session_crypto').stdout\n\n  describe session_crypto do\n    it { should include 'session_crypto_module' }\n  end\n\n  describe apache_conf(config_path) do\n    its('SessionCryptoCipher') { should_not be_nil }\n  end\n\n  unless apache_conf(config_path).SessionCryptoCipher.nil?\n    apache_conf(config_path).SessionCryptoCipher.each do |value|\n      describe 'SessionCryptoCipher value should be set to aes256' do\n        subject { value }\n        it { should cmp 'aes256' }\n      end\n    end\n  end",
         "tags": {
           "check_id__added": "C-15466r881434_chk",
@@ -2469,7 +2469,7 @@
         ],
         "id": {
           "__old": "V-92687",
-          "__new": "SV-214252"
+          "__new": "V-214252"
         },
         "title": {
           "__old": "The Apache web server must generate a session ID long enough that it\ncannot be guessed through brute force.",
@@ -2492,7 +2492,7 @@
           }
         }
       },
-      "SV-214253": {
+      "V-214253": {
         "describe__deleted": "  unique_id_module = command('httpd -M | grep unique_id').stdout\n\n  describe unique_id_module do\n    it { should include 'unique_id_module' }\n  end",
         "tags": {
           "check_id__added": "C-15467r881436_chk",
@@ -2522,7 +2522,7 @@
         ],
         "id": {
           "__old": "V-92689",
-          "__new": "SV-214253"
+          "__new": "V-214253"
         },
         "title": {
           "__old": "The Apache web server must generate a session ID using as much of the\ncharacter set as possible to reduce the risk of brute force.",
@@ -2545,7 +2545,7 @@
           }
         }
       },
-      "SV-214254": {
+      "V-214254": {
         "describe__deleted": "  describe 'Review documentation for a disaster recovery procedures' do\n    skip \"Interview the System Administrator for the Apache 2.4 web server. Ask for documentation\n      on the disaster recovery methods tested and planned for the Apache 2.4 web server in the event of the necessity for rollback.\"\n  end",
         "tags": {
           "check_id__added": "C-15468r277022_chk",
@@ -2575,7 +2575,7 @@
         ],
         "id": {
           "__old": "V-92695",
-          "__new": "SV-214254"
+          "__new": "V-214254"
         },
         "title": {
           "__old": "The Apache web server must be built to fail to a known safe state if\nsystem initialization fails, shutdown fails, or aborts fail.",
@@ -2598,7 +2598,7 @@
           }
         }
       },
-      "SV-214255": {
+      "V-214255": {
         "describe__deleted": "  config_path = input('config_path')\n  describe apache_conf(config_path) do\n    its('Timeout') { should_not be_nil }\n  end\n\n  unless apache_conf(config_path).Timeout.nil?\n    apache_conf(config_path).Timeout.each do |value|\n      describe 'Timeout value definition' do\n        subject { value }\n        it { should cmp <= 10 }\n      end\n    end\n  end",
         "tags": {
           "check_id__added": "C-15469r881439_chk",
@@ -2641,7 +2641,7 @@
         ],
         "id": {
           "__old": "V-92697",
-          "__new": "SV-214255"
+          "__new": "V-214255"
         },
         "title": {
           "__old": "The Apache web server must be tuned to handle the operational\nrequirements of the hosted application.",
@@ -2664,7 +2664,7 @@
           }
         }
       },
-      "SV-214256": {
+      "V-214256": {
         "describe__deleted": "  config_path = input('config_path')\n  describe apache_conf(config_path) do\n    its('ErrorDocument') { should_not be_empty }\n    its('ErrorDocument.to_s') { should match /4[0-9][0-9]/ }\n    its('ErrorDocument.to_s') { should match /5[0-9][0-9]/ }\n  end",
         "tags": {
           "check_id__added": "C-15470r881442_chk",
@@ -2694,7 +2694,7 @@
         ],
         "id": {
           "__old": "V-92699",
-          "__new": "SV-214256"
+          "__new": "V-214256"
         },
         "title": {
           "__old": "Warning and error messages displayed to clients must be modified to\nminimize the identity of the Apache web server, patches, loaded modules, and\ndirectory paths.",
@@ -2717,7 +2717,7 @@
           }
         }
       },
-      "SV-214257": {
+      "V-214257": {
         "describe__deleted": "  config_path = input('config_path')\n\n  describe apache_conf(config_path) do\n    its('TraceEnable') { should_not be_nil }\n  end\n\n  unless apache_conf(config_path).TraceEnable.nil?\n    apache_conf(config_path).TraceEnable.each do |value|\n      describe 'TraceEnable value should be off' do\n        subject { value }\n        it { should cmp 'off' }\n      end\n    end\n  end\n\n  describe apache_conf(config_path) do\n    its('LogLevel') { should_not be_nil }\n  end\n\n  unless apache_conf(config_path).LogLevel.nil?\n    apache_conf(config_path).LogLevel.each do |value|\n      describe 'LogLevel value should be set' do\n        subject { value }\n        it { should_not be_nil }\n      end\n    end\n  end",
         "tags": {
           "check_id__added": "C-15471r881445_chk",
@@ -2747,7 +2747,7 @@
         ],
         "id": {
           "__old": "V-92701",
-          "__new": "SV-214257"
+          "__new": "V-214257"
         },
         "title": {
           "__old": "Debugging and trace information used to diagnose the Apache web server\nmust be disabled.",
@@ -2770,7 +2770,7 @@
           }
         }
       },
-      "SV-214258": {
+      "V-214258": {
         "describe__deleted": "  config_path = input('config_path')\n\n  reqtimeout_module = command('httpd -M | grep reqtimeout_module').stdout\n\n  describe reqtimeout_module do\n    it { should include 'reqtimeout_module' }\n  end\n\n  describe apache_conf(config_path) do\n    its('RequestReadTimeout') { should_not be_nil }\n  end\n\n  unless apache_conf(config_path).RequestReadTimeout.nil?\n    apache_conf(config_path).RequestReadTimeout.each do |value|\n      describe 'RequestReadTimeout value should be set' do\n        subject { value }\n        it { should_not be_nil }\n      end\n    end\n  end",
         "tags": {
           "check_id__added": "C-15472r881448_chk",
@@ -2800,7 +2800,7 @@
         ],
         "id": {
           "__old": "V-92705",
-          "__new": "SV-214258"
+          "__new": "V-214258"
         },
         "desc": {
           "__old": "Leaving sessions open indefinitely is a major security risk. An\nattacker can easily use an already authenticated session to access the hosted\napplication as the previously authenticated user. By closing sessions after a\nset period of inactivity, the Apache web server can make certain that those\nsessions that are not closed through the user logging out of an application are\neventually closed.\n\n    Acceptable values are 5 minutes for high-value applications, 10 minutes for\nmedium-value applications, and 20 minutes for low-value applications.",
@@ -2819,7 +2819,7 @@
           }
         }
       },
-      "SV-214259": {
+      "V-214259": {
         "describe__deleted": "  firewall = input('host_based_firewall_used')\n  config_path = input('config_path')\n  if firewall\n    impact 0.0\n  else\n    impact 0.5\n  end\n\n  describe apache_conf(config_path) do\n    its('RequireAll') { should_not be_nil }\n  end\n\n  require_all = file(config_path).content.scan(%r{^\\s*(<RequireAll[\\s\\S]*?>[\\s\\S]*?</RequireAll>)})\n\n  unless apache_conf(config_path).RequireAll.nil?\n    describe 'If IP ranges for RequireAll directive are not restrictive enough to prevent connections from nonsecure zones, this is a finding.' do\n      skip \"The RequireAll directive is provided below. A manual check is required to verify the IP addresses. \\n #{require_all}\\n\"\n    end\n  end",
         "tags": {
           "check_id__added": "C-15473r881451_chk",
@@ -2849,7 +2849,7 @@
         ],
         "id": {
           "__old": "V-92709",
-          "__new": "SV-214259"
+          "__new": "V-214259"
         },
         "title": {
           "__old": "The Apache web server must restrict inbound connections from nonsecure\nzones.",
@@ -2868,7 +2868,7 @@
           }
         }
       },
-      "SV-214260": {
+      "V-214260": {
         "describe__deleted": "  describe 'Review procedures for shutting down Server in the event of an attack' do\n    skip \"If the web server is not capable of or cannot be configured to disconnect or disable remote access to the hosted applications when necessary, this is a finding\n    Interview the SA and Web Manager.\n    Ask for documentation for the Apache web server administration.\n    Verify there are documented procedures for shutting down an Apache website in the event of an attack.\"\n  end",
         "tags": {
           "check_id__added": "C-15474r881453_chk",
@@ -2898,7 +2898,7 @@
         ],
         "id": {
           "__old": "V-92711",
-          "__new": "SV-214260"
+          "__new": "V-214260"
         },
         "title": {
           "__old": "The Apache web server must be configured to immediately disconnect or\ndisable remote access to the hosted applications.",
@@ -2921,7 +2921,7 @@
           }
         }
       },
-      "SV-214261": {
+      "V-214261": {
         "describe__deleted": "  describe 'Review access to web server and tools' do\n    skip \"If accounts other than the System Administrator (SA), the Web Manager, or the Web Manager designees have access to the web administration tool or control files, this is a finding.\n    Determine which tool or control file is used to control the configuration of the web server.\n    If the control of the web server is done via control files, verify who has update access to them.\n    If tools are being used to configure the web server, determine who has access to execute the tools.\"\n  end",
         "tags": {
           "check_id__added": "C-15475r277043_chk",
@@ -2951,7 +2951,7 @@
         ],
         "id": {
           "__old": "V-92713",
-          "__new": "SV-214261"
+          "__new": "V-214261"
         },
         "title": {
           "__old": "Non-privileged accounts on the hosting system must only access Apache\nweb server security-relevant information and functions through a distinct\nadministrative account.",
@@ -2974,7 +2974,7 @@
           }
         }
       },
-      "SV-214262": {
+      "V-214262": {
         "describe__deleted": "  describe 'Work with SIEM administrator to determine log storage capacity.' do\n    skip 'If there is no setting within a SIEM to accommodate enough a large logging capacity, this is a finding.'\n  end",
         "tags": {
           "check_id__added": "C-15476r277046_chk",
@@ -3004,7 +3004,7 @@
         ],
         "id": {
           "__old": "V-92715",
-          "__new": "SV-214262"
+          "__new": "V-214262"
         },
         "title": {
           "__old": "The Apache web server must use a logging mechanism that is configured\nto allocate log record storage capacity large enough to accommodate the logging\nrequirements of the Apache web server.",
@@ -3027,7 +3027,7 @@
           }
         }
       },
-      "SV-214263": {
+      "V-214263": {
         "describe__deleted": "  describe 'Work with SIEM administrator to determine audit configurations' do\n    skip 'If there is a setting within the SIEM that could impede the ability to write specific log record content, this is a finding.'\n  end",
         "tags": {
           "check_id__added": "C-15477r277049_chk",
@@ -3057,7 +3057,7 @@
         ],
         "id": {
           "__old": "V-92717",
-          "__new": "SV-214263"
+          "__new": "V-214263"
         },
         "title": {
           "__old": "The Apache web server must not impede the ability to write specified\nlog record content to an audit log server.",
@@ -3080,7 +3080,7 @@
           }
         }
       },
-      "SV-214264": {
+      "V-214264": {
         "describe__deleted": "  describe 'Work with the SIEM administrator to determine current security integrations' do\n    skip 'If the SIEM is not integrated with security, this is a finding.'\n  end",
         "tags": {
           "check_id__added": "C-15478r277052_chk",
@@ -3110,7 +3110,7 @@
         ],
         "id": {
           "__old": "V-92719",
-          "__new": "SV-214264"
+          "__new": "V-214264"
         },
         "title": {
           "__old": "The Apache web server must be configured to integrate with an\norganizations security infrastructure.",
@@ -3133,7 +3133,7 @@
           }
         }
       },
-      "SV-214265": {
+      "V-214265": {
         "describe__deleted": "  config_path = input('config_path')\n  describe file(config_path) do\n    its('content') { should match '^[\\\\s]*LogFormat[\\\\s]+.*(?=.*\\%t).*$' }\n  end\n\n  log_config_module = command('httpd -M | grep log_config_module').stdout\n\n  describe log_config_module do\n    it { should include 'log_config_module' }\n  end",
         "tags": {
           "check_id__added": "C-15479r881455_chk",
@@ -3163,7 +3163,7 @@
         ],
         "id": {
           "__old": "V-92723",
-          "__new": "SV-214265"
+          "__new": "V-214265"
         },
         "title": {
           "__old": "The Apache web server must generate log records that can be mapped to\nCoordinated Universal Time (UTC) or Greenwich Mean Time (GMT) which are stamped\nat a minimum granularity of one second.",
@@ -3186,7 +3186,7 @@
           }
         }
       },
-      "SV-214266": {
+      "V-214266": {
         "describe__deleted": "  describe 'Review the website to determine if HTTP and HTTPs are used in accordance with well known ports (e.g., 80 and 443) or those ports and services as registered and approved for use by the DoD PPSM. Any variation in PPS will be documented, registered, and approved by the PPSM' do\n    skip 'The Apache web server must prohibit or restrict the use of nonsecure or unnecessary ports, protocols, modules, and/or services. If not, this is a finding.'\n  end",
         "tags": {
           "check_id__added": "C-15480r277058_chk",
@@ -3216,7 +3216,7 @@
         ],
         "id": {
           "__old": "V-92727",
-          "__new": "SV-214266"
+          "__new": "V-214266"
         },
         "title": {
           "__old": "The Apache web server must prohibit or restrict the use of nonsecure\nor unnecessary ports, protocols, modules, and/or services.",
@@ -3239,7 +3239,7 @@
           }
         }
       },
-      "SV-214267": {
+      "V-214267": {
         "describe__deleted": "  pid_path = command('find / -name httpd.pid').stdout.strip\n  service_path = command('find / -name service').stdout.strip\n  apachectl_path = command('find / -name apachectl').stdout.strip\n\n  if file(pid_path).exist?\n    describe file(pid_path) do\n      its('owner') { should be_in input('server_admins') }\n      its('group') { should be_in input('server_admin_groups') }\n    end\n  end\n\n  if file(service_path).exist?\n    describe file(service_path) do\n      its('owner') { should be_in input('server_admins') }\n      its('group') { should be_in input('server_admin_groups') }\n    end\n  end\n\n  if file(apachectl_path).exist?\n    describe file(apachectl_path) do\n      its('owner') { should be_in input('server_admins') }\n      its('group') { should be_in input('server_admin_groups') }\n    end\n  end",
         "tags": {
           "check_id__added": "C-15481r881457_chk",
@@ -3279,7 +3279,7 @@
         ],
         "id": {
           "__old": "V-92731",
-          "__new": "SV-214267"
+          "__new": "V-214267"
         },
         "title": {
           "__old": "The Apache web server must be protected from being stopped by a\nnon-privileged user.",
@@ -3302,7 +3302,7 @@
           }
         }
       },
-      "SV-214268": {
+      "V-214268": {
         "describe__deleted": "  config_path = input('config_path')\n  describe apache_conf(config_path) do\n    its('SessionCookieName') { should_not be_nil }\n  end\n\n  unless apache_conf(config_path).SessionCookieName.nil?\n    apache_conf(config_path).SessionCookieName.each do |value|\n      describe 'SessionCookieName value should return httpOnly and Secure' do\n        subject { value }\n        it { should include 'httpOnly' }\n        it { should include 'Secure' }\n      end\n    end\n  end\n\n  describe apache_conf(config_path) do\n    its('Session') { should_not be_nil }\n  end\n\n  unless apache_conf(config_path).Session.nil?\n    apache_conf(config_path).Session.each do |value|\n      describe 'Session value should be set to on' do\n        subject { value }\n        it { should cmp 'on' }\n      end\n    end\n  end",
         "tags": {
           "check_id__added": "C-15482r881459_chk",
@@ -3332,7 +3332,7 @@
         ],
         "id": {
           "__old": "V-92741",
-          "__new": "SV-214268"
+          "__new": "V-214268"
         },
         "title": {
           "__old": "Cookies exchanged between the Apache web server and the client, such\nas session cookies, must have cookie properties set to prohibit client-side\nscripts from reading the cookie data.",
@@ -3355,7 +3355,7 @@
           }
         }
       },
-      "SV-214269": {
+      "V-214269": {
         "describe__deleted": "  config_path = input('config_path')\n\n  describe apache_conf(config_path) do\n    its('SSLCACertificateFile') { should_not be_nil }\n  end\n\n  unless apache_conf(config_path).SSLCACertificateFile.nil?\n    ca_path = File.dirname(apache_conf(config_path).SSLCACertificateFile[0])\n    ca_bundle = File.join(ca_path, 'ca-bundle.crt')\n    describe 'Examine CA Bundle' do\n      skip \"Check #{ca_bundle} to determine if the trusted CAs are DoD approved\"\n    end\n  end",
         "tags": {
           "check_id__added": "C-15483r881462_chk",
@@ -3385,7 +3385,7 @@
         ],
         "id": {
           "__old": "V-92745",
-          "__new": "SV-214269"
+          "__new": "V-214269"
         },
         "title": {
           "__old": "The Apache web server must remove all export ciphers to protect the\nconfidentiality and integrity of transmitted information.",
@@ -3408,7 +3408,7 @@
           }
         }
       },
-      "SV-214270": {
+      "V-214270": {
         "describe__deleted": "  httpd_version = command('httpd -v').stdout.scan(%r{Server version: Apache/(\\S+)\\s\\(\\w+\\)}).flatten\n\n  describe 'Apache Web Server installed must be updated' do\n    subject { httpd_version }\n    it { should cmp >= input('apache_version') }\n  end",
         "tags": {
           "check_id__added": "C-15484r854710_chk",
@@ -3438,7 +3438,7 @@
         ],
         "id": {
           "__old": "V-92749",
-          "__new": "SV-214270"
+          "__new": "V-214270"
         },
         "title": {
           "__old": "The Apache web server must install security-relevant software updates\nwithin the configured time period directed by an authoritative source (e.g.,\nIAVM, CTOs, DTMs, and STIGs).",
@@ -3461,7 +3461,7 @@
           }
         }
       },
-      "SV-214271": {
+      "V-214271": {
         "describe__deleted": "  describe 'The account used to run the Apache web server must not have a valid login shell and password defined.' do\n    skip 'Determine the account that is running the httpd process. If this account has a valid login shell and a password defined, this is a finding.'\n  end",
         "tags": {
           "check_id__added": "C-15485r277073_chk",
@@ -3491,7 +3491,7 @@
         ],
         "id": {
           "__old": "V-92751",
-          "__new": "SV-214271"
+          "__new": "V-214271"
         },
         "title": {
           "__old": "The account used to run the Apache web server must not have a valid\nlogin shell and password defined.",
@@ -3514,7 +3514,7 @@
           }
         }
       },
-      "SV-214272": {
+      "V-214272": {
         "describe__deleted": "  describe 'Ensure the website enforces the use of IANA well-known ports for HTTP and HTTPS.' do\n    skip \"Review the website to determine if \\\"HTTP\\\" and \\\"HTTPS\\\" are used in accordance\n      with well-known ports (e.g., 80 and 443) or those ports and services as registered and approved\n      for use by the DoD Ports, Protocols, and Services Management (PPSM).\n      Verify that any variation in PPS is documented, registered, and approved by the PPSM.\n      If well-known ports and services are not approved for used by PPSM, this is a finding.\"\n  end",
         "tags": {
           "check_id__added": "C-15486r277076_chk",
@@ -3544,7 +3544,7 @@
         ],
         "id": {
           "__old": "V-92753",
-          "__new": "SV-214272"
+          "__new": "V-214272"
         },
         "title": {
           "__old": "The Apache web server must be configured in accordance with the\nsecurity configuration settings based on DoD security configuration or\nimplementation guidance, including STIGs, NSA configuration guides, CTOs, and\nDTMs.",
@@ -3567,7 +3567,7 @@
           }
         }
       },
-      "SV-214273": {
+      "V-214273": {
         "describe__deleted": "  httpd_version = command('httpd -v').stdout.scan(%r{Server version: Apache/(\\S+)\\s\\(\\w+\\)}).flatten\n\n  describe 'Apache Web Server installed must be updated' do\n    subject { httpd_version }\n    it { should cmp >= input('apache_version') }\n  end",
         "tags": {
           "check_id__added": "C-15487r277079_chk",
@@ -3597,7 +3597,7 @@
         ],
         "id": {
           "__old": "V-92755",
-          "__new": "SV-214273"
+          "__new": "V-214273"
         },
         "desc": {
           "__old": "Many vulnerabilities are associated with older versions of web server\nsoftware. As hot fixes and patches are issued, these solutions are included in\nthe next version of the server software. Maintaining the web server at a\ncurrent version makes the efforts of a malicious user to exploit the web\nservice more difficult.",
@@ -3616,7 +3616,7 @@
           }
         }
       },
-      "SV-214274": {
+      "V-214274": {
         "describe__deleted": "  htpasswd_command = command('find / -name htpasswd').stdout.strip\n\n  if !htpasswd_command.empty?\n    htpasswd = file(htpasswd_command)\n\n    describe htpasswd do\n      it { should_not be_more_permissive_than('0550') }\n      its('owner') { should be_in input('server_admins') }\n    end\n\n  else\n    describe htpasswd_command do\n      skip 'Could not find htpwasswd. This check has to be manually reviewed.'\n    end\n  end",
         "tags": {
           "check_id__added": "C-15488r277082_chk",
@@ -3646,7 +3646,7 @@
         ],
         "id": {
           "__old": "V-92757",
-          "__new": "SV-214274"
+          "__new": "V-214274"
         },
         "title": {
           "__old": "The Apache web server htpasswd files (if present) must reflect proper\nownership and permissions.",

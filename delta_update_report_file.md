@@ -6,60 +6,60 @@
 <details>
   <summary>Click to expand.</summary>
   
- -  V-92597 -> SV-214228
- -  V-92599 -> SV-214229
- -  V-92601 -> SV-214230
- -  V-92607 -> SV-214231
- -  V-92609 -> SV-214232
- -  V-92621 -> SV-214233
- -  V-92627 -> SV-214234
- -  V-92629 -> SV-214235
- -  V-92631 -> SV-214236
- -  V-92635 -> SV-214237
- -  V-92637 -> SV-214238
- -  V-92639 -> SV-214239
- -  V-92641 -> SV-214240
- -  V-92643 -> SV-214241
- -  V-92645 -> SV-214242
- -  V-92653 -> SV-214243
- -  V-92655 -> SV-214244
- -  V-92659 -> SV-214245
- -  V-92661 -> SV-214246
- -  V-92671 -> SV-214247
- -  V-92673 -> SV-214248
- -  V-92675 -> SV-214249
- -  V-92677 -> SV-214250
- -  V-92679 -> SV-214251
- -  V-92687 -> SV-214252
- -  V-92689 -> SV-214253
- -  V-92695 -> SV-214254
- -  V-92697 -> SV-214255
- -  V-92699 -> SV-214256
- -  V-92701 -> SV-214257
- -  V-92705 -> SV-214258
- -  V-92709 -> SV-214259
- -  V-92711 -> SV-214260
- -  V-92713 -> SV-214261
- -  V-92715 -> SV-214262
- -  V-92717 -> SV-214263
- -  V-92719 -> SV-214264
- -  V-92723 -> SV-214265
- -  V-92727 -> SV-214266
- -  V-92731 -> SV-214267
- -  V-92741 -> SV-214268
- -  V-92745 -> SV-214269
- -  V-92749 -> SV-214270
- -  V-92751 -> SV-214271
- -  V-92753 -> SV-214272
- -  V-92755 -> SV-214273
- -  V-92757 -> SV-214274
+ -  V-92597 -> V-214228
+ -  V-92599 -> V-214229
+ -  V-92601 -> V-214230
+ -  V-92607 -> V-214231
+ -  V-92609 -> V-214232
+ -  V-92621 -> V-214233
+ -  V-92627 -> V-214234
+ -  V-92629 -> V-214235
+ -  V-92631 -> V-214236
+ -  V-92635 -> V-214237
+ -  V-92637 -> V-214238
+ -  V-92639 -> V-214239
+ -  V-92641 -> V-214240
+ -  V-92643 -> V-214241
+ -  V-92645 -> V-214242
+ -  V-92653 -> V-214243
+ -  V-92655 -> V-214244
+ -  V-92659 -> V-214245
+ -  V-92661 -> V-214246
+ -  V-92671 -> V-214247
+ -  V-92673 -> V-214248
+ -  V-92675 -> V-214249
+ -  V-92677 -> V-214250
+ -  V-92679 -> V-214251
+ -  V-92687 -> V-214252
+ -  V-92689 -> V-214253
+ -  V-92695 -> V-214254
+ -  V-92697 -> V-214255
+ -  V-92699 -> V-214256
+ -  V-92701 -> V-214257
+ -  V-92705 -> V-214258
+ -  V-92709 -> V-214259
+ -  V-92711 -> V-214260
+ -  V-92713 -> V-214261
+ -  V-92715 -> V-214262
+ -  V-92717 -> V-214263
+ -  V-92719 -> V-214264
+ -  V-92723 -> V-214265
+ -  V-92727 -> V-214266
+ -  V-92731 -> V-214267
+ -  V-92741 -> V-214268
+ -  V-92745 -> V-214269
+ -  V-92749 -> V-214270
+ -  V-92751 -> V-214271
+ -  V-92753 -> V-214272
+ -  V-92755 -> V-214273
+ -  V-92757 -> V-214274
 </details>
 
 ### Updated Check/Fixes:
 #### Checks:
 <details open>
   <summary>Click to expand.</summary>
-SV-214228:
+V-214228:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -108,7 +108,7 @@ If the value of "MaxKeepAliveRequests" is set to a value less than "100" or does
 
 ```
 ---
-SV-214229:
+V-214229:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -159,7 +159,7 @@ If "session_module" and "usertrack_module" are not enabled or do not exist, this
 
 ```
 ---
-SV-214230:
+V-214230:
 Old: 
 ```
 In a command line, run "httpd -M | grep -i ssl_module".
@@ -224,7 +224,7 @@ If the TLS version is not TLS 1.2 or higher, according to NIST SP 800-52 Rev 2, 
 
 ```
 ---
-SV-214231:
+V-214231:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -268,7 +268,7 @@ CustomLog "logs/access_log" common or CustomLog “log/access_log” combined
 
 ```
 ---
-SV-214232:
+V-214232:
 Old: 
 ```
 In a command line, run "httpd -M | grep -i log_config_module".
@@ -320,7 +320,7 @@ LogFormat "%a %A %h %H %l %m %s %t %u %U \"%{Referer}i\" " common
 
 ```
 ---
-SV-214233:
+V-214233:
 Old: 
 ```
 Interview the System Administrator to review the configuration of the
@@ -379,7 +379,7 @@ If logs containing source/destination IPs can be obtained at the load balancer/p
 
 ```
 ---
-SV-214235:
+V-214235:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -431,7 +431,7 @@ If any users other than those authorized have read access to the log files, this
 
 ```
 ---
-SV-214240:
+V-214240:
 Old: 
 ```
 Verify the document root directory and the configuration files do not
@@ -470,7 +470,7 @@ If, after review of the application on the system, there is no justification for
 
 ```
 ---
-SV-214241:
+V-214241:
 Old: 
 ```
 If the server is a proxy server and not a web server, this check is Not
@@ -526,7 +526,7 @@ If the ProxyRequest directive is set to “On”, this is a finding.
 
 ```
 ---
-SV-214242:
+V-214242:
 Old: 
 ```
 If the site requires the use of a particular piece of software, verify that
@@ -573,7 +573,7 @@ If any of these are present, this is a finding.
 
 ```
 ---
-SV-214243:
+V-214243:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -617,7 +617,7 @@ If this is not documented and approved by the Information System Security Office
 
 ```
 ---
-SV-214244:
+V-214244:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -661,7 +661,7 @@ If this is not documented and approved by the Information System Security Office
 
 ```
 ---
-SV-214246:
+V-214246:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -711,7 +711,7 @@ If the "Listen" directive does not exist, this is a finding.
 
 ```
 ---
-SV-214250:
+V-214250:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -756,7 +756,7 @@ If the "SessionMaxAge" does not exist or is set to more than "600", this is a fi
 
 ```
 ---
-SV-214251:
+V-214251:
 Old: 
 ```
 Review the web server documentation and configuration to determine if
@@ -801,7 +801,7 @@ If the "headers_module (shared)" is not loaded, this is a finding.
 
 ```
 ---
-SV-214252:
+V-214252:
 Old: 
 ```
 Review the web server documentation and deployed configuration to determine
@@ -852,7 +852,7 @@ If the "SessionCryptoCipher" is not used or "SessionCryptoCipher" is not set to 
 
 ```
 ---
-SV-214253:
+V-214253:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -886,7 +886,7 @@ If no unique_id is returned, this is a finding.
 
 ```
 ---
-SV-214255:
+V-214255:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -924,7 +924,7 @@ If the "Timeout" directive is not configured or is set for more than "10" second
 
 ```
 ---
-SV-214256:
+V-214256:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -957,7 +957,7 @@ If the "ErrorDocument" directive is not being used for custom error pages for "4
 
 ```
 ---
-SV-214257:
+V-214257:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -1013,7 +1013,7 @@ If the "LogLevel" directive is not being used, this is a finding:
 
 ```
 ---
-SV-214258:
+V-214258:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -1064,7 +1064,7 @@ If the "reqtimeout_module" is loaded and the "RequestReadTimeout" directive is n
 
 ```
 ---
-SV-214259:
+V-214259:
 Old: 
 ```
 If external controls such as host-based firewalls are used to restrict this
@@ -1107,7 +1107,7 @@ If "RequireAll" is not configured, or IP ranges configured to allow are not rest
 
 ```
 ---
-SV-214260:
+V-214260:
 Old: 
 ```
 Interview the SA and Web Manager.
@@ -1169,7 +1169,7 @@ If the web server is not capable of or cannot be configured to disconnect or dis
 
 ```
 ---
-SV-214265:
+V-214265:
 Old: 
 ```
 Review the web server documentation and configuration to determine the time
@@ -1223,7 +1223,7 @@ If "%t" flag is not present, time is not mapped to UTC or GMT time, this is a fi
 
 ```
 ---
-SV-214267:
+V-214267:
 Old: 
 ```
 Review the web server documentation and deployed configuration to determine
@@ -1290,7 +1290,7 @@ If permission set is not 755 or more restrictive, this is a finding.
 
 ```
 ---
-SV-214268:
+V-214268:
 Old: 
 ```
 In a command line, run "httpd -M | grep -i session_cookie_module".
@@ -1346,7 +1346,7 @@ If "Session" is not set to "on" and "SessionCookieName" does not contain "httpOn
 
 ```
 ---
-SV-214269:
+V-214269:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -1399,7 +1399,7 @@ If the SSLCipherSuite directive does not contain !EXPORT or !EXP or there are no
 
 ```
 ---
-SV-214270:
+V-214270:
 Old: 
 ```
 Determine the most recent patch level of the Apache Web Server 2.4
@@ -1427,7 +1427,7 @@ If the version is more than one version behind the most recent patch level, this
 #### Fixes:
 <details open>
   <summary>Click to expand.</summary>
-SV-214228:
+V-214228:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -1464,7 +1464,7 @@ Restart Apache: apachectl restart
 
 ```
 ---
-SV-214230:
+V-214230:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -1493,7 +1493,7 @@ Restart Apache: apachectl restart
 
 ```
 ---
-SV-214232:
+V-214232:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -1549,7 +1549,7 @@ The logging elements required breakdown as follows:
 
 ```
 ---
-SV-214236:
+V-214236:
 Old: 
 ```
 Determine the location of the "ErrorLog" directory in the "httpd.conf"
@@ -1588,7 +1588,7 @@ Ensure the permissions and ownership of all files in the Apache log directory ar
 
 ```
 ---
-SV-214240:
+V-214240:
 Old: 
 ```
 Review all pre-installed content and remove content that is not required.
@@ -1706,7 +1706,7 @@ Remove any unnecessary applications per ISSO documentation.
 
 ```
 ---
-SV-214242:
+V-214242:
 Old: 
 ```
 Remove any unnecessary applications per ISSO documentation.
@@ -1810,7 +1810,7 @@ For applications developed in-house, ensure that development artifacts (sample d
 
 ```
 ---
-SV-214243:
+V-214243:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -1848,7 +1848,7 @@ Ensure this process is documented and approved by the ISSO.
 
 ```
 ---
-SV-214244:
+V-214244:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -1883,7 +1883,7 @@ Ensure this process is documented and approved by the ISSO.
 
 ```
 ---
-SV-214246:
+V-214246:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -1912,7 +1912,7 @@ Restart Apache: apachectl restart
 
 ```
 ---
-SV-214250:
+V-214250:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -1945,7 +1945,7 @@ Restart Apache: apachectl restart
 
 ```
 ---
-SV-214253:
+V-214253:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -1978,7 +1978,7 @@ Restart Apache: apachectl restart
 
 ```
 ---
-SV-214255:
+V-214255:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -2008,7 +2008,7 @@ Add or modify the "Timeout" directive to have a value of "10" seconds or less:
 
 ```
 ---
-SV-214256:
+V-214256:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -2062,7 +2062,7 @@ https://httpd.apache.org/docs/2.4/custom-error.html
 
 ```
 ---
-SV-214257:
+V-214257:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -2091,7 +2091,7 @@ Set the "LogLevel" directive to "info" or below.
 
 ```
 ---
-SV-214258:
+V-214258:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -2120,7 +2120,7 @@ Set the "RequestReadTimeout" directive to specific values applicable to the webs
 
 ```
 ---
-SV-214260:
+V-214260:
 Old: 
 ```
 Prepare documented procedures for shutting down an Apache website in the
@@ -2149,7 +2149,7 @@ In a command line, enter the following command:
 
 ```
 ---
-SV-214268:
+V-214268:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -2181,7 +2181,7 @@ Ensure the "SessionCookieName" directive includes "httpOnly" and "secure".
 
 ```
 ---
-SV-214269:
+V-214269:
 Old: 
 ```
 Determine the location of the "HTTPD_ROOT" directory and the
@@ -2214,225 +2214,225 @@ Update the cipher specification string for all enabled SSLCipherSuite directives
 ### Updated Titles
 <details>
   <summary>Click to expand.</summary>
-SV-214228:
+V-214228:
 Old: The Apache web server must limit the number of allowed simultaneous
 session requests.
 New: The Apache web server must limit the number of allowed simultaneous session requests.
 ---
-SV-214230:
+V-214230:
 Old: The Apache web server must use cryptography to protect the integrity
 of remote sessions.
 New: The Apache web server must use cryptography to protect the integrity of remote sessions.
 ---
-SV-214232:
+V-214232:
 Old: The Apache web server must generate, at a minimum, log records for
 system startup and shutdown, system access, and system authentication events.
 New: The Apache web server must generate, at a minimum, log records for system startup and shutdown, system access, and system authentication events.
 ---
-SV-214233:
+V-214233:
 Old: An Apache web server, behind a load balancer or proxy server, must
 produce log records containing the client IP information as the source and
 destination and not the load balancer or proxy IP information with each event.
 New: An Apache web server, behind a load balancer or proxy server, must produce log records containing the client IP information as the source and destination and not the load balancer or proxy IP information with each event.
 ---
-SV-214234:
+V-214234:
 Old: The Apache web server must use a logging mechanism that is configured
 to alert the Information System Security Officer (ISSO) and System
 Administrator (SA) in the event of a processing failure.
 New: The Apache web server must use a logging mechanism that is configured to alert the Information System Security Officer (ISSO) and System Administrator (SA) in the event of a processing failure.
 ---
-SV-214235:
+V-214235:
 Old: The Apache web server log files must only be accessible by privileged
 users.
 New: The Apache web server log files must only be accessible by privileged users.
 ---
-SV-214236:
+V-214236:
 Old: The log information from the Apache web server must be protected from
 unauthorized modification or deletion.
 New: The log information from the Apache web server must be protected from unauthorized modification or deletion.
 ---
-SV-214237:
+V-214237:
 Old: The log data and records from the Apache web server must be backed up
 onto a different system or media.
 New: The log data and records from the Apache web server must be backed up onto a different system or media.
 ---
-SV-214238:
+V-214238:
 Old: Expansion modules must be fully reviewed, tested, and signed before
 they can exist on a production Apache web server.
 New: Expansion modules must be fully reviewed, tested, and signed before they can exist on a production Apache web server.
 ---
-SV-214239:
+V-214239:
 Old: The Apache web server must not perform user management for hosted
 applications.
 New: The Apache web server must not perform user management for hosted applications.
 ---
-SV-214240:
+V-214240:
 Old: The Apache web server must only contain services and functions
 necessary for operation.
 New: The Apache web server must only contain services and functions necessary for operation.
 ---
-SV-214242:
+V-214242:
 Old: The Apache web server must provide install options to exclude the
 installation of documentation, sample code, example applications, and
 tutorials.
 New: The Apache web server must provide install options to exclude the installation of documentation, sample code, example applications, and tutorials.
 ---
-SV-214243:
+V-214243:
 Old: The Apache web server must have resource mappings set to disable the
 serving of certain file types.
 New: The Apache web server must have resource mappings set to disable the serving of certain file types.
 ---
-SV-214244:
+V-214244:
 Old: The Apache web server must allow the mappings to unused and vulnerable
 scripts to be removed.
 New: The Apache web server must allow the mappings to unused and vulnerable scripts to be removed.
 ---
-SV-214245:
+V-214245:
 Old: The Apache web server must have Web Distributed Authoring (WebDAV)
 disabled.
 New: The Apache web server must have Web Distributed Authoring (WebDAV) disabled.
 ---
-SV-214246:
+V-214246:
 Old: The Apache web server must be configured to use a specified IP address
 and port.
 New: The Apache web server must be configured to use a specified IP address and port.
 ---
-SV-214247:
+V-214247:
 Old: Apache web server accounts accessing the directory tree, the shell, or
 other operating system functions and utilities must only be administrative
 accounts.
 New: Apache web server accounts accessing the directory tree, the shell, or other operating system functions and utilities must only be administrative accounts.
 ---
-SV-214248:
+V-214248:
 Old: Apache web server application directories,  libraries, and
 configuration files must only be accessible to privileged users.
 New: Apache web server application directories,  libraries, and configuration files must only be accessible to privileged users.
 ---
-SV-214249:
+V-214249:
 Old: The Apache web server must separate the hosted applications from
 hosted Apache web server management functionality.
 New: The Apache web server must separate the hosted applications from hosted Apache web server management functionality.
 ---
-SV-214250:
+V-214250:
 Old: The Apache web server must invalidate session identifiers upon hosted
 application user logout or other session termination.
 New: The Apache web server must invalidate session identifiers upon hosted application user logout or other session termination.
 ---
-SV-214251:
+V-214251:
 Old: Cookies exchanged between the Apache web server and client, such as
 session cookies, must have security settings that disallow cookie access
 outside the originating Apache web server and hosted application.
 New: Cookies exchanged between the Apache web server and client, such as session cookies, must have security settings that disallow cookie access outside the originating Apache web server and hosted application.
 ---
-SV-214252:
+V-214252:
 Old: The Apache web server must generate a session ID long enough that it
 cannot be guessed through brute force.
 New: The Apache web server must generate a session ID long enough that it cannot be guessed through brute force.
 ---
-SV-214253:
+V-214253:
 Old: The Apache web server must generate a session ID using as much of the
 character set as possible to reduce the risk of brute force.
 New: The Apache web server must generate a session ID using as much of the character set as possible to reduce the risk of brute force.
 ---
-SV-214254:
+V-214254:
 Old: The Apache web server must be built to fail to a known safe state if
 system initialization fails, shutdown fails, or aborts fail.
 New: The Apache web server must be built to fail to a known safe state if system initialization fails, shutdown fails, or aborts fail.
 ---
-SV-214255:
+V-214255:
 Old: The Apache web server must be tuned to handle the operational
 requirements of the hosted application.
 New: The Apache web server must be tuned to handle the operational requirements of the hosted application.
 ---
-SV-214256:
+V-214256:
 Old: Warning and error messages displayed to clients must be modified to
 minimize the identity of the Apache web server, patches, loaded modules, and
 directory paths.
 New: Warning and error messages displayed to clients must be modified to minimize the identity of the Apache web server, patches, loaded modules, and directory paths.
 ---
-SV-214257:
+V-214257:
 Old: Debugging and trace information used to diagnose the Apache web server
 must be disabled.
 New: Debugging and trace information used to diagnose the Apache web server must be disabled.
 ---
-SV-214259:
+V-214259:
 Old: The Apache web server must restrict inbound connections from nonsecure
 zones.
 New: The Apache web server must restrict inbound connections from nonsecure zones.
 ---
-SV-214260:
+V-214260:
 Old: The Apache web server must be configured to immediately disconnect or
 disable remote access to the hosted applications.
 New: The Apache web server must be configured to immediately disconnect or disable remote access to the hosted applications.
 ---
-SV-214261:
+V-214261:
 Old: Non-privileged accounts on the hosting system must only access Apache
 web server security-relevant information and functions through a distinct
 administrative account.
 New: Non-privileged accounts on the hosting system must only access Apache web server security-relevant information and functions through a distinct administrative account.
 ---
-SV-214262:
+V-214262:
 Old: The Apache web server must use a logging mechanism that is configured
 to allocate log record storage capacity large enough to accommodate the logging
 requirements of the Apache web server.
 New: The Apache web server must use a logging mechanism that is configured to allocate log record storage capacity large enough to accommodate the logging requirements of the Apache web server.
 ---
-SV-214263:
+V-214263:
 Old: The Apache web server must not impede the ability to write specified
 log record content to an audit log server.
 New: The Apache web server must not impede the ability to write specified log record content to an audit log server.
 ---
-SV-214264:
+V-214264:
 Old: The Apache web server must be configured to integrate with an
 organizations security infrastructure.
 New: The Apache web server must be configured to integrate with an organizations security infrastructure.
 ---
-SV-214265:
+V-214265:
 Old: The Apache web server must generate log records that can be mapped to
 Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT) which are stamped
 at a minimum granularity of one second.
 New: The Apache web server must generate log records that can be mapped to Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT) which are stamped at a minimum granularity of one second.
 ---
-SV-214266:
+V-214266:
 Old: The Apache web server must prohibit or restrict the use of nonsecure
 or unnecessary ports, protocols, modules, and&#x2F;or services.
 New: The Apache web server must prohibit or restrict the use of nonsecure or unnecessary ports, protocols, modules, and&#x2F;or services.
 ---
-SV-214267:
+V-214267:
 Old: The Apache web server must be protected from being stopped by a
 non-privileged user.
 New: The Apache web server must be protected from being stopped by a non-privileged user.
 ---
-SV-214268:
+V-214268:
 Old: Cookies exchanged between the Apache web server and the client, such
 as session cookies, must have cookie properties set to prohibit client-side
 scripts from reading the cookie data.
 New: Cookies exchanged between the Apache web server and the client, such as session cookies, must have cookie properties set to prohibit client-side scripts from reading the cookie data.
 ---
-SV-214269:
+V-214269:
 Old: The Apache web server must remove all export ciphers to protect the
 confidentiality and integrity of transmitted information.
 New: The Apache web server must remove all export ciphers to protect the confidentiality and integrity of transmitted information.
 ---
-SV-214270:
+V-214270:
 Old: The Apache web server must install security-relevant software updates
 within the configured time period directed by an authoritative source (e.g.,
 IAVM, CTOs, DTMs, and STIGs).
 New: The Apache web server must install security-relevant software updates within the configured time period directed by an authoritative source (e.g., IAVM, CTOs, DTMs, and STIGs).
 ---
-SV-214271:
+V-214271:
 Old: The account used to run the Apache web server must not have a valid
 login shell and password defined.
 New: The account used to run the Apache web server must not have a valid login shell and password defined.
 ---
-SV-214272:
+V-214272:
 Old: The Apache web server must be configured in accordance with the
 security configuration settings based on DoD security configuration or
 implementation guidance, including STIGs, NSA configuration guides, CTOs, and
 DTMs.
 New: The Apache web server must be configured in accordance with the security configuration settings based on DoD security configuration or implementation guidance, including STIGs, NSA configuration guides, CTOs, and DTMs.
 ---
-SV-214274:
+V-214274:
 Old: The Apache web server htpasswd files (if present) must reflect proper
 ownership and permissions.
 New: The Apache web server htpasswd files (if present) must reflect proper ownership and permissions.
@@ -2442,7 +2442,7 @@ New: The Apache web server htpasswd files (if present) must reflect proper owner
 ### Updated Descriptions
 <details>
   <summary>Click to expand.</summary>
-SV-214228:
+V-214228:
 Old:
 ```
 Apache web server management includes the ability to control the
@@ -2464,7 +2464,7 @@ Although there is some latitude concerning the settings, they should follow DoD-
 
 ```
 ---
-SV-214229:
+V-214229:
 Old:
 ```
 Session management is the practice of protecting the bulk of the user
@@ -2497,7 +2497,7 @@ When the user authorization and identity information is stored on the server in 
 
 ```
 ---
-SV-214230:
+V-214230:
 Old:
 ```
 Data exchanged between the user and the Apache web server can range
@@ -2517,7 +2517,7 @@ Data exchanged between the user and the Apache web server can range from static 
 
 ```
 ---
-SV-214231:
+V-214231:
 Old:
 ```
 The server error logs are invaluable because they can also be used to
@@ -2535,7 +2535,7 @@ The server error logs are invaluable because they can also be used to identify p
 
 ```
 ---
-SV-214232:
+V-214232:
 Old:
 ```
 Log records can be generated from various components within the Apache
@@ -2563,7 +2563,7 @@ The minimum list of logged events should be those pertaining to system startup a
 
 ```
 ---
-SV-214233:
+V-214233:
 Old:
 ```
 Apache web server logging capability is critical for accurate forensic
@@ -2594,7 +2594,7 @@ A web server behind a load balancer or proxy server, when not configured correct
 
 ```
 ---
-SV-214234:
+V-214234:
 Old:
 ```
 Reviewing log data allows an investigator to recreate the path of an
@@ -2618,7 +2618,7 @@ If the logging system begins to fail, events will not be recorded. Organizations
 
 ```
 ---
-SV-214235:
+V-214235:
 Old:
 ```
 Log data is essential in the investigation of events. If log data were
@@ -2643,7 +2643,7 @@ The web server must protect the log data from unauthorized read, write, copy, et
 
 ```
 ---
-SV-214236:
+V-214236:
 Old:
 ```
 Log data is essential in the investigation of events. If log data were
@@ -2670,7 +2670,7 @@ The web server must protect the log data from unauthorized read, write, copy, et
 
 ```
 ---
-SV-214237:
+V-214237:
 Old:
 ```
 Protection of log data includes ensuring log data is not accidentally
@@ -2686,7 +2686,7 @@ Protection of log data includes ensuring log data is not accidentally lost or de
 
 ```
 ---
-SV-214238:
+V-214238:
 Old:
 ```
 In the case of a production web server, areas for content development
@@ -2713,7 +2713,7 @@ The web server must enforce, internally or through an external utility, the sign
 
 ```
 ---
-SV-214239:
+V-214239:
 Old:
 ```
 User management and authentication can be an essential part of any
@@ -2738,7 +2738,7 @@ The web server contains a minimal user management function, but the web server u
 
 ```
 ---
-SV-214240:
+V-214240:
 Old:
 ```
 A web server can provide many features, services, and processes. Some
@@ -2758,7 +2758,7 @@ The web server must provide the capability to disable, uninstall, or deactivate 
 
 ```
 ---
-SV-214241:
+V-214241:
 Old:
 ```
 A web server should be primarily a web server or a proxy server but
@@ -2774,7 +2774,7 @@ A web server should be primarily a web server or a proxy server but not both, fo
 
 ```
 ---
-SV-214242:
+V-214242:
 Old:
 ```
 Apache web server documentation, sample code, example applications,
@@ -2800,7 +2800,7 @@ Any documentation, sample code, example applications, and tutorials must be remo
 
 ```
 ---
-SV-214243:
+V-214243:
 Old:
 ```
 Resource mapping is the process of tying a particular file type to a
@@ -2827,7 +2827,7 @@ The web server must only allow hosted application file types to be served to a u
 
 ```
 ---
-SV-214244:
+V-214244:
 Old:
 ```
 Scripts allow server-side processing on behalf of the hosted
@@ -2848,7 +2848,7 @@ To ensure scripts are not added to the web server and run maliciously, script ma
 
 ```
 ---
-SV-214245:
+V-214245:
 Old:
 ```
 A web server can be installed with functionality that, by its nature,
@@ -2869,7 +2869,7 @@ WebDAV is not widely used and has serious security concerns because it may allow
 
 ```
 ---
-SV-214246:
+V-214246:
 Old:
 ```
 The web server must be configured to listen on a specified IP address
@@ -2894,7 +2894,7 @@ Accessing the hosted application through an IP address normally used for non-app
 
 ```
 ---
-SV-214247:
+V-214247:
 Old:
 ```
 As a rule, accounts on a web server are to be kept to a minimum. Only
@@ -2912,7 +2912,7 @@ As a rule, accounts on a web server are to be kept to a minimum. Only administra
 
 ```
 ---
-SV-214248:
+V-214248:
 Old:
 ```
 To properly monitor the changes to the web server and the hosted
@@ -2935,7 +2935,7 @@ To limit changes to the Apache web server and limit exposure to any adverse effe
 
 ```
 ---
-SV-214249:
+V-214249:
 Old:
 ```
 The separation of user functionality from web server management can be
@@ -2956,7 +2956,7 @@ By moving the management functionality, the possibility of accidental discovery 
 
 ```
 ---
-SV-214250:
+V-214250:
 Old:
 ```
 Captured sessions can be reused in "replay" attacks. This
@@ -2980,7 +2980,7 @@ Session IDs are tokens generated by web applications to uniquely identify an app
 
 ```
 ---
-SV-214251:
+V-214251:
 Old:
 ```
 Cookies are used to exchange data between the web server and the
@@ -3002,7 +3002,7 @@ When the cookie parameters are not set properly (i.e., domain and path parameter
 
 ```
 ---
-SV-214252:
+V-214252:
 Old:
 ```
 Generating a session identifier (ID) that is not easily guessed
@@ -3025,7 +3025,7 @@ Generating session IDs that are at least 128 bits (16 bytes) in length will caus
 
 ```
 ---
-SV-214253:
+V-214253:
 Old:
 ```
 Generating a session identifier (ID) that is not easily guessed
@@ -3050,7 +3050,7 @@ By generating session IDs that contain as much of the character set as possible,
 
 ```
 ---
-SV-214254:
+V-214254:
 Old:
 ```
 Determining a safe state for failure and weighing that against a
@@ -3075,7 +3075,7 @@ Performing a proper risk analysis of the hosted applications and configuring the
 
 ```
 ---
-SV-214255:
+V-214255:
 Old:
 ```
 A denial of service (DoS) can occur when the Apache web server is so
@@ -3093,7 +3093,7 @@ A denial of service (DoS) can occur when the Apache web server is so overwhelmed
 
 ```
 ---
-SV-214256:
+V-214256:
 Old:
 ```
 Information needed by an attacker to begin looking for possible
@@ -3121,7 +3121,7 @@ This information could be used by an attacker to blueprint what type of attacks 
 
 ```
 ---
-SV-214257:
+V-214257:
 Old:
 ```
 Information needed by an attacker to begin looking for possible
@@ -3145,7 +3145,7 @@ When debugging or trace information is enabled in a production web server, infor
 
 ```
 ---
-SV-214258:
+V-214258:
 Old:
 ```
 Leaving sessions open indefinitely is a major security risk. An
@@ -3167,7 +3167,7 @@ Acceptable values are 5 minutes for high-value applications, 10 minutes for medi
 
 ```
 ---
-SV-214259:
+V-214259:
 Old:
 ```
 Remote access to the Apache web server is any access that communicates
@@ -3192,7 +3192,7 @@ A web server can be accessed remotely and must be capable of restricting access 
 
 ```
 ---
-SV-214260:
+V-214260:
 Old:
 ```
 During an attack on the Apache web server or any of the hosted
@@ -3223,7 +3223,7 @@ The Apache web server capabilities used to disconnect or disable users from conn
 
 ```
 ---
-SV-214261:
+V-214261:
 Old:
 ```
 By separating Apache web server security functions from non-privileged
@@ -3242,7 +3242,7 @@ By separating Apache web server security functions from non-privileged users, ro
 
 ```
 ---
-SV-214262:
+V-214262:
 Old:
 ```
 To make certain that the logging mechanism used by the web server has
@@ -3265,7 +3265,7 @@ The task of allocating log record storage capacity is usually performed during i
 
 ```
 ---
-SV-214263:
+V-214263:
 Old:
 ```
 Writing events to a centralized management audit system offers many
@@ -3282,7 +3282,7 @@ Writing events to a centralized management audit system offers many benefits to 
 
 ```
 ---
-SV-214264:
+V-214264:
 Old:
 ```
 A web server will typically use logging mechanisms for maintaining a
@@ -3312,7 +3312,7 @@ Manual review of the web server logs may not occur in a timely manner, and each 
 
 ```
 ---
-SV-214265:
+V-214265:
 Old:
 ```
 If time stamps are not consistently applied and there is no common
@@ -3344,7 +3344,7 @@ Time stamps generated by the Apache web server include date and time and must be
 
 ```
 ---
-SV-214266:
+V-214266:
 Old:
 ```
 Web servers provide numerous processes, features, and functionalities
@@ -3366,7 +3366,7 @@ The Apache web server must provide the capability to disable or deactivate netwo
 
 ```
 ---
-SV-214267:
+V-214267:
 Old:
 ```
 An attacker has at least two reasons to stop a web server. The first
@@ -3389,7 +3389,7 @@ To prohibit an attacker from stopping the Apache web server, the process ID (pid
 
 ```
 ---
-SV-214268:
+V-214268:
 Old:
 ```
 A cookie can be read by client-side scripts easily if cookie
@@ -3408,7 +3408,7 @@ A cookie can be read by client-side scripts easily if cookie properties are not 
 
 ```
 ---
-SV-214269:
+V-214269:
 Old:
 ```
 During the initial setup of a Transport Layer Security (TLS)
@@ -3429,7 +3429,7 @@ Configuring the Apache server with only strong ciphersuites, denying or disablin
 
 ```
 ---
-SV-214270:
+V-214270:
 Old:
 ```
 Security flaws with software applications are discovered daily.
@@ -3454,7 +3454,7 @@ The Apache web server will be configured to check for and install security-relev
 
 ```
 ---
-SV-214271:
+V-214271:
 Old:
 ```
 During installation of the Apache web server software, accounts are
@@ -3484,7 +3484,7 @@ Service accounts or system accounts that have no logon capability do not need to
 
 ```
 ---
-SV-214272:
+V-214272:
 Old:
 ```
 Configuring the Apache web server to implement organization-wide
@@ -3508,7 +3508,7 @@ Configuration settings are the set of parameters that can be changed that affect
 
 ```
 ---
-SV-214273:
+V-214273:
 Old:
 ```
 Many vulnerabilities are associated with older versions of web server
@@ -3524,7 +3524,7 @@ Many vulnerabilities are associated with older versions of web server software.
 
 ```
 ---
-SV-214274:
+V-214274:
 Old:
 ```
 In addition to OS restrictions, access rights to files and directories
